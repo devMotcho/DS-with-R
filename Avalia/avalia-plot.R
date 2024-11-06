@@ -1,5 +1,3 @@
-id <- "a36919"
-
 data <- read.csv("avalia-2.csv", sep=",")
 
 str(data)
