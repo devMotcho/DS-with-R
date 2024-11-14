@@ -1,6 +1,3 @@
-# Bernardo Mamede
-id <- "a36919"
-
 results_df <- read.csv("./results.csv", sep = ",")
 
 # Calcular as taxas de promoção
