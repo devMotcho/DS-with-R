@@ -1,0 +1,3101 @@
+"auth","sim_num","pw","pm"
+"AD",1,18,17
+"AD",2,17,18
+"AD",3,19,16
+"AD",4,17,18
+"AD",5,16,19
+"AD",6,16,19
+"AD",7,16,19
+"AD",8,16,19
+"AD",9,17,18
+"AD",10,19,16
+"AD",11,18,17
+"AD",12,19,16
+"AD",13,18,17
+"AD",14,16,19
+"AD",15,17,18
+"AD",16,17,18
+"AD",17,16,19
+"AD",18,19,16
+"AD",19,18,17
+"AD",20,17,18
+"AD",21,17,18
+"AD",22,19,16
+"AD",23,21,14
+"AD",24,19,16
+"AD",25,17,18
+"AD",26,17,18
+"AD",27,17,18
+"AD",28,16,19
+"AD",29,18,17
+"AD",30,17,18
+"AD",31,19,16
+"AD",32,19,16
+"AD",33,19,16
+"AD",34,18,17
+"AD",35,17,18
+"AD",36,19,16
+"AD",37,17,18
+"AD",38,19,16
+"AD",39,19,16
+"AD",40,17,18
+"AD",41,18,17
+"AD",42,19,16
+"AD",43,20,15
+"AD",44,18,17
+"AD",45,14,21
+"AD",46,18,17
+"AD",47,18,17
+"AD",48,14,21
+"AD",49,17,18
+"AD",50,17,18
+"AD",51,20,15
+"AD",52,19,16
+"AD",53,19,16
+"AD",54,17,18
+"AD",55,15,20
+"AD",56,14,21
+"AD",57,19,16
+"AD",58,19,16
+"AD",59,20,15
+"AD",60,17,18
+"AD",61,18,17
+"AD",62,18,17
+"AD",63,20,15
+"AD",64,16,19
+"AD",65,20,15
+"AD",66,19,16
+"AD",67,18,17
+"AD",68,18,17
+"AD",69,18,17
+"AD",70,16,19
+"AD",71,16,19
+"AD",72,16,19
+"AD",73,18,17
+"AD",74,17,18
+"AD",75,18,17
+"AD",76,15,20
+"AD",77,17,18
+"AD",78,16,19
+"AD",79,17,18
+"AD",80,18,17
+"AD",81,17,18
+"AD",82,17,18
+"AD",83,16,19
+"AD",84,17,18
+"AD",85,17,18
+"AD",86,18,17
+"AD",87,16,19
+"AD",88,18,17
+"AD",89,19,16
+"AD",90,16,19
+"AD",91,15,20
+"AD",92,20,15
+"AD",93,14,21
+"AD",94,18,17
+"AD",95,19,16
+"AD",96,18,17
+"AD",97,19,16
+"AD",98,19,16
+"AD",99,19,16
+"AD",100,19,16
+"Admilza/Leonilza",1,21,14
+"Admilza/Leonilza",2,20,15
+"Admilza/Leonilza",3,18,17
+"Admilza/Leonilza",4,18,17
+"Admilza/Leonilza",5,16,19
+"Admilza/Leonilza",6,18,17
+"Admilza/Leonilza",7,17,18
+"Admilza/Leonilza",8,18,17
+"Admilza/Leonilza",9,21,14
+"Admilza/Leonilza",10,20,15
+"Admilza/Leonilza",11,20,15
+"Admilza/Leonilza",12,16,19
+"Admilza/Leonilza",13,19,16
+"Admilza/Leonilza",14,22,13
+"Admilza/Leonilza",15,19,16
+"Admilza/Leonilza",16,16,19
+"Admilza/Leonilza",17,19,16
+"Admilza/Leonilza",18,20,15
+"Admilza/Leonilza",19,18,17
+"Admilza/Leonilza",20,21,14
+"Admilza/Leonilza",21,17,18
+"Admilza/Leonilza",22,18,17
+"Admilza/Leonilza",23,15,20
+"Admilza/Leonilza",24,17,18
+"Admilza/Leonilza",25,17,18
+"Admilza/Leonilza",26,18,17
+"Admilza/Leonilza",27,18,17
+"Admilza/Leonilza",28,17,18
+"Admilza/Leonilza",29,18,17
+"Admilza/Leonilza",30,15,20
+"Admilza/Leonilza",31,18,17
+"Admilza/Leonilza",32,17,18
+"Admilza/Leonilza",33,16,19
+"Admilza/Leonilza",34,14,21
+"Admilza/Leonilza",35,17,18
+"Admilza/Leonilza",36,14,21
+"Admilza/Leonilza",37,13,22
+"Admilza/Leonilza",38,17,18
+"Admilza/Leonilza",39,19,16
+"Admilza/Leonilza",40,15,20
+"Admilza/Leonilza",41,17,18
+"Admilza/Leonilza",42,15,20
+"Admilza/Leonilza",43,17,18
+"Admilza/Leonilza",44,20,15
+"Admilza/Leonilza",45,14,21
+"Admilza/Leonilza",46,21,14
+"Admilza/Leonilza",47,15,20
+"Admilza/Leonilza",48,16,19
+"Admilza/Leonilza",49,15,20
+"Admilza/Leonilza",50,18,17
+"Admilza/Leonilza",51,16,19
+"Admilza/Leonilza",52,17,18
+"Admilza/Leonilza",53,17,18
+"Admilza/Leonilza",54,20,15
+"Admilza/Leonilza",55,19,16
+"Admilza/Leonilza",56,16,19
+"Admilza/Leonilza",57,17,18
+"Admilza/Leonilza",58,18,17
+"Admilza/Leonilza",59,21,14
+"Admilza/Leonilza",60,17,18
+"Admilza/Leonilza",61,18,17
+"Admilza/Leonilza",62,16,19
+"Admilza/Leonilza",63,18,17
+"Admilza/Leonilza",64,16,19
+"Admilza/Leonilza",65,18,17
+"Admilza/Leonilza",66,20,15
+"Admilza/Leonilza",67,15,20
+"Admilza/Leonilza",68,19,16
+"Admilza/Leonilza",69,19,16
+"Admilza/Leonilza",70,16,19
+"Admilza/Leonilza",71,14,21
+"Admilza/Leonilza",72,19,16
+"Admilza/Leonilza",73,19,16
+"Admilza/Leonilza",74,15,20
+"Admilza/Leonilza",75,18,17
+"Admilza/Leonilza",76,19,16
+"Admilza/Leonilza",77,13,22
+"Admilza/Leonilza",78,17,18
+"Admilza/Leonilza",79,18,17
+"Admilza/Leonilza",80,17,18
+"Admilza/Leonilza",81,19,16
+"Admilza/Leonilza",82,17,18
+"Admilza/Leonilza",83,15,20
+"Admilza/Leonilza",84,20,15
+"Admilza/Leonilza",85,17,18
+"Admilza/Leonilza",86,17,18
+"Admilza/Leonilza",87,20,15
+"Admilza/Leonilza",88,18,17
+"Admilza/Leonilza",89,14,21
+"Admilza/Leonilza",90,15,20
+"Admilza/Leonilza",91,18,17
+"Admilza/Leonilza",92,18,17
+"Admilza/Leonilza",93,16,19
+"Admilza/Leonilza",94,17,18
+"Admilza/Leonilza",95,19,16
+"Admilza/Leonilza",96,17,18
+"Admilza/Leonilza",97,17,18
+"Admilza/Leonilza",98,17,18
+"Admilza/Leonilza",99,17,18
+"Admilza/Leonilza",100,17,18
+"Agilton",1,15,20
+"Agilton",2,20,15
+"Agilton",3,18,17
+"Agilton",4,20,15
+"Agilton",5,18,17
+"Agilton",6,18,17
+"Agilton",7,16,19
+"Agilton",8,18,17
+"Agilton",9,16,19
+"Agilton",10,16,19
+"Agilton",11,21,14
+"Agilton",12,18,17
+"Agilton",13,19,16
+"Agilton",14,18,17
+"Agilton",15,17,18
+"Agilton",16,16,19
+"Agilton",17,21,14
+"Agilton",18,17,18
+"Agilton",19,15,20
+"Agilton",20,16,19
+"Agilton",21,17,18
+"Agilton",22,17,18
+"Agilton",23,17,18
+"Agilton",24,17,18
+"Agilton",25,18,17
+"Agilton",26,19,16
+"Agilton",27,15,20
+"Agilton",28,16,19
+"Agilton",29,17,18
+"Agilton",30,15,20
+"Agilton",31,16,19
+"Agilton",32,18,17
+"Agilton",33,19,16
+"Agilton",34,18,17
+"Agilton",35,16,19
+"Agilton",36,18,17
+"Agilton",37,18,17
+"Agilton",38,16,19
+"Agilton",39,17,18
+"Agilton",40,16,19
+"Agilton",41,19,16
+"Agilton",42,19,16
+"Agilton",43,16,19
+"Agilton",44,17,18
+"Agilton",45,18,17
+"Agilton",46,15,20
+"Agilton",47,16,19
+"Agilton",48,19,16
+"Agilton",49,18,17
+"Agilton",50,19,16
+"Agilton",51,18,17
+"Agilton",52,19,16
+"Agilton",53,17,18
+"Agilton",54,16,19
+"Agilton",55,17,18
+"Agilton",56,20,15
+"Agilton",57,19,16
+"Agilton",58,19,16
+"Agilton",59,15,20
+"Agilton",60,19,16
+"Agilton",61,19,16
+"Agilton",62,20,15
+"Agilton",63,17,18
+"Agilton",64,17,18
+"Agilton",65,18,17
+"Agilton",66,18,17
+"Agilton",67,18,17
+"Agilton",68,19,16
+"Agilton",69,18,17
+"Agilton",70,18,17
+"Agilton",71,20,15
+"Agilton",72,18,17
+"Agilton",73,17,18
+"Agilton",74,19,16
+"Agilton",75,19,16
+"Agilton",76,18,17
+"Agilton",77,18,17
+"Agilton",78,20,15
+"Agilton",79,15,20
+"Agilton",80,17,18
+"Agilton",81,17,18
+"Agilton",82,17,18
+"Agilton",83,20,15
+"Agilton",84,18,17
+"Agilton",85,16,19
+"Agilton",86,20,15
+"Agilton",87,16,19
+"Agilton",88,17,18
+"Agilton",89,17,18
+"Agilton",90,16,19
+"Agilton",91,17,18
+"Agilton",92,18,17
+"Agilton",93,18,17
+"Agilton",94,19,16
+"Agilton",95,16,19
+"Agilton",96,16,19
+"Agilton",97,18,17
+"Agilton",98,17,18
+"Agilton",99,18,17
+"Agilton",100,15,20
+"Amanda/Kelivânia",1,20,15
+"Amanda/Kelivânia",2,17,18
+"Amanda/Kelivânia",3,18,17
+"Amanda/Kelivânia",4,17,18
+"Amanda/Kelivânia",5,18,17
+"Amanda/Kelivânia",6,20,15
+"Amanda/Kelivânia",7,20,15
+"Amanda/Kelivânia",8,15,20
+"Amanda/Kelivânia",9,17,18
+"Amanda/Kelivânia",10,16,19
+"Amanda/Kelivânia",11,17,18
+"Amanda/Kelivânia",12,19,16
+"Amanda/Kelivânia",13,17,18
+"Amanda/Kelivânia",14,20,15
+"Amanda/Kelivânia",15,17,18
+"Amanda/Kelivânia",16,16,19
+"Amanda/Kelivânia",17,17,18
+"Amanda/Kelivânia",18,18,17
+"Amanda/Kelivânia",19,22,19
+"Amanda/Kelivânia",20,21,13
+"Amanda/Kelivânia",21,21,14
+"Amanda/Kelivânia",22,19,16
+"Amanda/Kelivânia",23,18,17
+"Amanda/Kelivânia",24,20,15
+"Amanda/Kelivânia",25,18,17
+"Amanda/Kelivânia",26,18,17
+"Amanda/Kelivânia",27,16,19
+"Amanda/Kelivânia",28,14,21
+"Amanda/Kelivânia",29,18,17
+"Amanda/Kelivânia",30,18,17
+"Amanda/Kelivânia",31,13,22
+"Amanda/Kelivânia",32,17,18
+"Amanda/Kelivânia",33,19,16
+"Amanda/Kelivânia",34,18,17
+"Amanda/Kelivânia",35,19,16
+"Amanda/Kelivânia",36,15,20
+"Amanda/Kelivânia",37,15,20
+"Amanda/Kelivânia",38,18,17
+"Amanda/Kelivânia",39,15,20
+"Amanda/Kelivânia",40,18,17
+"Amanda/Kelivânia",41,18,17
+"Amanda/Kelivânia",42,16,19
+"Amanda/Kelivânia",43,17,18
+"Amanda/Kelivânia",44,18,17
+"Amanda/Kelivânia",45,17,18
+"Amanda/Kelivânia",46,19,16
+"Amanda/Kelivânia",47,18,17
+"Amanda/Kelivânia",48,18,17
+"Amanda/Kelivânia",49,18,17
+"Amanda/Kelivânia",50,16,19
+"Amanda/Kelivânia",51,16,19
+"Amanda/Kelivânia",52,21,14
+"Amanda/Kelivânia",53,18,17
+"Amanda/Kelivânia",54,17,18
+"Amanda/Kelivânia",55,18,17
+"Amanda/Kelivânia",56,16,19
+"Amanda/Kelivânia",57,17,18
+"Amanda/Kelivânia",58,16,19
+"Amanda/Kelivânia",59,17,18
+"Amanda/Kelivânia",60,16,19
+"Amanda/Kelivânia",61,16,19
+"Amanda/Kelivânia",62,15,20
+"Amanda/Kelivânia",63,17,18
+"Amanda/Kelivânia",64,18,17
+"Amanda/Kelivânia",65,19,16
+"Amanda/Kelivânia",66,17,18
+"Amanda/Kelivânia",67,15,20
+"Amanda/Kelivânia",68,17,18
+"Amanda/Kelivânia",69,21,14
+"Amanda/Kelivânia",70,20,15
+"Amanda/Kelivânia",71,21,14
+"Amanda/Kelivânia",72,18,17
+"Amanda/Kelivânia",73,16,19
+"Amanda/Kelivânia",74,17,18
+"Amanda/Kelivânia",75,20,15
+"Amanda/Kelivânia",76,19,16
+"Amanda/Kelivânia",77,17,18
+"Amanda/Kelivânia",78,15,20
+"Amanda/Kelivânia",79,15,20
+"Amanda/Kelivânia",80,20,15
+"Amanda/Kelivânia",81,14,21
+"Amanda/Kelivânia",82,19,16
+"Amanda/Kelivânia",83,14,21
+"Amanda/Kelivânia",84,16,19
+"Amanda/Kelivânia",85,18,17
+"Amanda/Kelivânia",86,18,17
+"Amanda/Kelivânia",87,17,18
+"Amanda/Kelivânia",88,15,20
+"Amanda/Kelivânia",89,18,17
+"Amanda/Kelivânia",90,17,18
+"Amanda/Kelivânia",91,14,21
+"Amanda/Kelivânia",92,17,18
+"Amanda/Kelivânia",93,18,17
+"Amanda/Kelivânia",94,20,15
+"Amanda/Kelivânia",95,18,17
+"Amanda/Kelivânia",96,15,20
+"Amanda/Kelivânia",97,19,16
+"Amanda/Kelivânia",98,17,18
+"Amanda/Kelivânia",99,21,14
+"Amanda/Kelivânia",100,17,18
+"Bernardo",1,19,16
+"Bernardo",2,18,17
+"Bernardo",3,18,17
+"Bernardo",4,18,17
+"Bernardo",5,17,18
+"Bernardo",6,20,15
+"Bernardo",7,17,18
+"Bernardo",8,18,17
+"Bernardo",9,19,16
+"Bernardo",10,18,17
+"Bernardo",11,18,17
+"Bernardo",12,17,18
+"Bernardo",13,19,16
+"Bernardo",14,16,19
+"Bernardo",15,16,19
+"Bernardo",16,15,20
+"Bernardo",17,18,17
+"Bernardo",18,17,18
+"Bernardo",19,20,15
+"Bernardo",20,17,18
+"Bernardo",21,15,20
+"Bernardo",22,17,18
+"Bernardo",23,20,15
+"Bernardo",24,20,15
+"Bernardo",25,18,17
+"Bernardo",26,19,16
+"Bernardo",27,15,20
+"Bernardo",28,18,17
+"Bernardo",29,14,21
+"Bernardo",30,16,19
+"Bernardo",31,19,16
+"Bernardo",32,19,16
+"Bernardo",33,18,17
+"Bernardo",34,17,18
+"Bernardo",35,17,18
+"Bernardo",36,20,15
+"Bernardo",37,18,17
+"Bernardo",38,18,17
+"Bernardo",39,16,19
+"Bernardo",40,17,18
+"Bernardo",41,19,16
+"Bernardo",42,17,18
+"Bernardo",43,17,18
+"Bernardo",44,14,21
+"Bernardo",45,15,20
+"Bernardo",46,17,18
+"Bernardo",47,17,18
+"Bernardo",48,15,20
+"Bernardo",49,20,15
+"Bernardo",50,20,15
+"Bernardo",51,17,18
+"Bernardo",52,15,20
+"Bernardo",53,18,17
+"Bernardo",54,17,18
+"Bernardo",55,17,18
+"Bernardo",56,18,17
+"Bernardo",57,18,17
+"Bernardo",58,16,19
+"Bernardo",59,17,18
+"Bernardo",60,17,18
+"Bernardo",61,18,17
+"Bernardo",62,18,17
+"Bernardo",63,19,16
+"Bernardo",64,18,17
+"Bernardo",65,20,15
+"Bernardo",66,18,17
+"Bernardo",67,22,13
+"Bernardo",68,19,16
+"Bernardo",69,15,20
+"Bernardo",70,17,18
+"Bernardo",71,21,14
+"Bernardo",72,17,18
+"Bernardo",73,17,18
+"Bernardo",74,18,17
+"Bernardo",75,16,19
+"Bernardo",76,17,18
+"Bernardo",77,19,16
+"Bernardo",78,17,18
+"Bernardo",79,18,17
+"Bernardo",80,20,15
+"Bernardo",81,17,18
+"Bernardo",82,16,19
+"Bernardo",83,19,16
+"Bernardo",84,18,17
+"Bernardo",85,17,18
+"Bernardo",86,21,14
+"Bernardo",87,17,18
+"Bernardo",88,17,18
+"Bernardo",89,18,17
+"Bernardo",90,17,18
+"Bernardo",91,17,18
+"Bernardo",92,16,19
+"Bernardo",93,16,19
+"Bernardo",94,18,17
+"Bernardo",95,19,16
+"Bernardo",96,19,16
+"Bernardo",97,19,16
+"Bernardo",98,19,16
+"Bernardo",99,16,19
+"Bernardo",100,19,16
+"Ana Camões",1,17,18
+"Ana Camões",2,15,20
+"Ana Camões",3,17,18
+"Ana Camões",4,18,17
+"Ana Camões",5,20,15
+"Ana Camões",6,18,17
+"Ana Camões",7,17,18
+"Ana Camões",8,19,16
+"Ana Camões",9,17,18
+"Ana Camões",10,18,17
+"Ana Camões",11,16,19
+"Ana Camões",12,17,18
+"Ana Camões",13,18,17
+"Ana Camões",14,19,16
+"Ana Camões",15,17,18
+"Ana Camões",16,17,18
+"Ana Camões",17,16,19
+"Ana Camões",18,19,16
+"Ana Camões",19,17,18
+"Ana Camões",20,18,17
+"Ana Camões",21,16,19
+"Ana Camões",22,17,18
+"Ana Camões",23,18,17
+"Ana Camões",24,17,18
+"Ana Camões",25,20,15
+"Ana Camões",26,18,17
+"Ana Camões",27,20,15
+"Ana Camões",28,19,16
+"Ana Camões",29,16,19
+"Ana Camões",30,17,18
+"Ana Camões",31,19,16
+"Ana Camões",32,16,19
+"Ana Camões",33,16,19
+"Ana Camões",34,17,18
+"Ana Camões",35,16,19
+"Ana Camões",36,17,18
+"Ana Camões",37,19,16
+"Ana Camões",38,18,17
+"Ana Camões",39,16,19
+"Ana Camões",40,16,19
+"Ana Camões",41,16,19
+"Ana Camões",42,21,14
+"Ana Camões",43,19,16
+"Ana Camões",44,17,18
+"Ana Camões",45,19,16
+"Ana Camões",46,18,17
+"Ana Camões",47,16,19
+"Ana Camões",48,20,15
+"Ana Camões",49,16,19
+"Ana Camões",50,19,16
+"Ana Camões",51,17,18
+"Ana Camões",52,17,18
+"Ana Camões",53,17,18
+"Ana Camões",54,17,18
+"Ana Camões",55,20,15
+"Ana Camões",56,19,16
+"Ana Camões",57,15,20
+"Ana Camões",58,16,19
+"Ana Camões",59,17,18
+"Ana Camões",60,18,17
+"Ana Camões",61,18,17
+"Ana Camões",62,16,19
+"Ana Camões",63,19,16
+"Ana Camões",64,19,16
+"Ana Camões",65,18,17
+"Ana Camões",66,19,16
+"Ana Camões",67,18,17
+"Ana Camões",68,18,17
+"Ana Camões",69,17,18
+"Ana Camões",70,18,17
+"Ana Camões",71,19,16
+"Ana Camões",72,17,18
+"Ana Camões",73,19,16
+"Ana Camões",74,19,16
+"Ana Camões",75,14,21
+"Ana Camões",76,20,15
+"Ana Camões",77,17,18
+"Ana Camões",78,18,17
+"Ana Camões",79,19,16
+"Ana Camões",80,18,17
+"Ana Camões",81,18,17
+"Ana Camões",82,19,16
+"Ana Camões",83,14,21
+"Ana Camões",84,18,17
+"Ana Camões",85,20,15
+"Ana Camões",86,17,18
+"Ana Camões",87,16,19
+"Ana Camões",88,15,20
+"Ana Camões",89,16,19
+"Ana Camões",90,17,18
+"Ana Camões",91,17,18
+"Ana Camões",92,18,17
+"Ana Camões",93,19,16
+"Ana Camões",94,19,16
+"Ana Camões",95,19,16
+"Ana Camões",96,17,18
+"Ana Camões",97,17,18
+"Ana Camões",98,16,19
+"Ana Camões",99,15,20
+"Ana Camões",100,15,20
+"Carolline/Lara",1,17,18
+"Carolline/Lara",2,16,19
+"Carolline/Lara",3,17,18
+"Carolline/Lara",4,15,20
+"Carolline/Lara",5,20,15
+"Carolline/Lara",6,19,16
+"Carolline/Lara",7,19,16
+"Carolline/Lara",8,17,18
+"Carolline/Lara",9,14,21
+"Carolline/Lara",10,18,17
+"Carolline/Lara",11,17,18
+"Carolline/Lara",12,20,15
+"Carolline/Lara",13,18,17
+"Carolline/Lara",14,17,18
+"Carolline/Lara",15,17,18
+"Carolline/Lara",16,19,16
+"Carolline/Lara",17,19,16
+"Carolline/Lara",18,17,18
+"Carolline/Lara",19,19,16
+"Carolline/Lara",20,16,19
+"Carolline/Lara",21,17,18
+"Carolline/Lara",22,18,17
+"Carolline/Lara",23,16,19
+"Carolline/Lara",24,20,15
+"Carolline/Lara",25,19,16
+"Carolline/Lara",26,19,16
+"Carolline/Lara",27,18,17
+"Carolline/Lara",28,18,17
+"Carolline/Lara",29,18,17
+"Carolline/Lara",30,17,18
+"Carolline/Lara",31,15,20
+"Carolline/Lara",32,20,15
+"Carolline/Lara",33,19,16
+"Carolline/Lara",34,16,19
+"Carolline/Lara",35,17,18
+"Carolline/Lara",36,21,14
+"Carolline/Lara",37,17,18
+"Carolline/Lara",38,16,19
+"Carolline/Lara",39,19,16
+"Carolline/Lara",40,17,18
+"Carolline/Lara",41,20,15
+"Carolline/Lara",42,19,16
+"Carolline/Lara",43,19,16
+"Carolline/Lara",44,18,17
+"Carolline/Lara",45,18,17
+"Carolline/Lara",46,20,15
+"Carolline/Lara",47,18,17
+"Carolline/Lara",48,16,19
+"Carolline/Lara",49,17,18
+"Carolline/Lara",50,19,16
+"Carolline/Lara",51,18,17
+"Carolline/Lara",52,17,18
+"Carolline/Lara",53,19,16
+"Carolline/Lara",54,19,16
+"Carolline/Lara",55,18,17
+"Carolline/Lara",56,20,15
+"Carolline/Lara",57,16,19
+"Carolline/Lara",58,16,19
+"Carolline/Lara",59,19,16
+"Carolline/Lara",60,17,18
+"Carolline/Lara",61,17,18
+"Carolline/Lara",62,20,15
+"Carolline/Lara",63,17,18
+"Carolline/Lara",64,19,16
+"Carolline/Lara",65,20,15
+"Carolline/Lara",66,15,20
+"Carolline/Lara",67,18,17
+"Carolline/Lara",68,21,14
+"Carolline/Lara",69,19,16
+"Carolline/Lara",70,21,14
+"Carolline/Lara",71,19,16
+"Carolline/Lara",72,19,16
+"Carolline/Lara",73,14,21
+"Carolline/Lara",74,19,16
+"Carolline/Lara",75,19,16
+"Carolline/Lara",76,16,19
+"Carolline/Lara",77,17,18
+"Carolline/Lara",78,16,19
+"Carolline/Lara",79,19,16
+"Carolline/Lara",80,18,17
+"Carolline/Lara",81,18,17
+"Carolline/Lara",82,19,16
+"Carolline/Lara",83,20,15
+"Carolline/Lara",84,20,15
+"Carolline/Lara",85,21,14
+"Carolline/Lara",86,18,17
+"Carolline/Lara",87,21,14
+"Carolline/Lara",88,18,17
+"Carolline/Lara",89,18,17
+"Carolline/Lara",90,20,15
+"Carolline/Lara",91,17,18
+"Carolline/Lara",92,17,18
+"Carolline/Lara",93,16,19
+"Carolline/Lara",94,18,17
+"Carolline/Lara",95,20,15
+"Carolline/Lara",96,17,18
+"Carolline/Lara",97,19,16
+"Carolline/Lara",98,14,21
+"Carolline/Lara",99,19,16
+"Carolline/Lara",100,15,20
+"Chelsea/Kelsia",1,17,18
+"Chelsea/Kelsia",2,17,18
+"Chelsea/Kelsia",3,19,16
+"Chelsea/Kelsia",4,18,17
+"Chelsea/Kelsia",5,14,21
+"Chelsea/Kelsia",6,16,19
+"Chelsea/Kelsia",7,16,19
+"Chelsea/Kelsia",8,17,18
+"Chelsea/Kelsia",9,20,15
+"Chelsea/Kelsia",10,16,19
+"Chelsea/Kelsia",11,17,18
+"Chelsea/Kelsia",12,18,17
+"Chelsea/Kelsia",13,18,17
+"Chelsea/Kelsia",14,17,18
+"Chelsea/Kelsia",15,16,19
+"Chelsea/Kelsia",16,18,17
+"Chelsea/Kelsia",17,16,19
+"Chelsea/Kelsia",18,18,17
+"Chelsea/Kelsia",19,17,18
+"Chelsea/Kelsia",20,16,19
+"Chelsea/Kelsia",21,19,16
+"Chelsea/Kelsia",22,19,16
+"Chelsea/Kelsia",23,17,18
+"Chelsea/Kelsia",24,19,16
+"Chelsea/Kelsia",25,16,19
+"Chelsea/Kelsia",26,17,18
+"Chelsea/Kelsia",27,15,20
+"Chelsea/Kelsia",28,15,20
+"Chelsea/Kelsia",29,17,18
+"Chelsea/Kelsia",30,17,18
+"Chelsea/Kelsia",31,19,16
+"Chelsea/Kelsia",32,17,18
+"Chelsea/Kelsia",33,17,18
+"Chelsea/Kelsia",34,17,18
+"Chelsea/Kelsia",35,16,19
+"Chelsea/Kelsia",36,18,17
+"Chelsea/Kelsia",37,17,18
+"Chelsea/Kelsia",38,18,17
+"Chelsea/Kelsia",39,20,15
+"Chelsea/Kelsia",40,15,20
+"Chelsea/Kelsia",41,16,19
+"Chelsea/Kelsia",42,17,18
+"Chelsea/Kelsia",43,14,21
+"Chelsea/Kelsia",44,13,22
+"Chelsea/Kelsia",45,19,16
+"Chelsea/Kelsia",46,17,18
+"Chelsea/Kelsia",47,16,19
+"Chelsea/Kelsia",48,16,19
+"Chelsea/Kelsia",49,18,17
+"Chelsea/Kelsia",50,20,15
+"Chelsea/Kelsia",51,18,17
+"Chelsea/Kelsia",52,18,17
+"Chelsea/Kelsia",53,17,18
+"Chelsea/Kelsia",54,18,17
+"Chelsea/Kelsia",55,17,18
+"Chelsea/Kelsia",56,15,20
+"Chelsea/Kelsia",57,18,17
+"Chelsea/Kelsia",58,16,19
+"Chelsea/Kelsia",59,18,17
+"Chelsea/Kelsia",60,16,19
+"Chelsea/Kelsia",61,17,18
+"Chelsea/Kelsia",62,18,17
+"Chelsea/Kelsia",63,17,18
+"Chelsea/Kelsia",64,16,19
+"Chelsea/Kelsia",65,15,20
+"Chelsea/Kelsia",66,17,18
+"Chelsea/Kelsia",67,16,19
+"Chelsea/Kelsia",68,18,17
+"Chelsea/Kelsia",69,17,18
+"Chelsea/Kelsia",70,19,16
+"Chelsea/Kelsia",71,17,18
+"Chelsea/Kelsia",72,15,20
+"Chelsea/Kelsia",73,15,20
+"Chelsea/Kelsia",74,17,18
+"Chelsea/Kelsia",75,17,18
+"Chelsea/Kelsia",76,16,19
+"Chelsea/Kelsia",77,17,18
+"Chelsea/Kelsia",78,17,18
+"Chelsea/Kelsia",79,17,18
+"Chelsea/Kelsia",80,18,17
+"Chelsea/Kelsia",81,18,17
+"Chelsea/Kelsia",82,15,20
+"Chelsea/Kelsia",83,16,19
+"Chelsea/Kelsia",84,17,18
+"Chelsea/Kelsia",85,18,17
+"Chelsea/Kelsia",86,18,17
+"Chelsea/Kelsia",87,17,18
+"Chelsea/Kelsia",88,16,19
+"Chelsea/Kelsia",89,20,15
+"Chelsea/Kelsia",90,20,15
+"Chelsea/Kelsia",91,19,16
+"Chelsea/Kelsia",92,19,16
+"Chelsea/Kelsia",93,15,20
+"Chelsea/Kelsia",94,16,19
+"Chelsea/Kelsia",95,18,17
+"Chelsea/Kelsia",96,21,14
+"Chelsea/Kelsia",97,20,15
+"Chelsea/Kelsia",98,20,15
+"Chelsea/Kelsia",99,17,18
+"Chelsea/Kelsia",100,16,19
+"Elisa/Daniel",1,20,15
+"Elisa/Daniel",2,18,17
+"Elisa/Daniel",3,18,17
+"Elisa/Daniel",4,19,16
+"Elisa/Daniel",5,17,18
+"Elisa/Daniel",6,16,19
+"Elisa/Daniel",7,17,18
+"Elisa/Daniel",8,16,19
+"Elisa/Daniel",9,17,18
+"Elisa/Daniel",10,20,15
+"Elisa/Daniel",11,16,19
+"Elisa/Daniel",12,16,19
+"Elisa/Daniel",13,16,19
+"Elisa/Daniel",14,19,16
+"Elisa/Daniel",15,19,16
+"Elisa/Daniel",16,18,17
+"Elisa/Daniel",17,18,17
+"Elisa/Daniel",18,17,18
+"Elisa/Daniel",19,16,19
+"Elisa/Daniel",20,19,16
+"Elisa/Daniel",21,18,17
+"Elisa/Daniel",22,19,16
+"Elisa/Daniel",23,19,16
+"Elisa/Daniel",24,18,17
+"Elisa/Daniel",25,20,15
+"Elisa/Daniel",26,17,18
+"Elisa/Daniel",27,17,18
+"Elisa/Daniel",28,17,18
+"Elisa/Daniel",29,18,17
+"Elisa/Daniel",30,18,17
+"Elisa/Daniel",31,16,19
+"Elisa/Daniel",32,16,19
+"Elisa/Daniel",33,18,17
+"Elisa/Daniel",34,18,17
+"Elisa/Daniel",35,16,19
+"Elisa/Daniel",36,18,17
+"Elisa/Daniel",37,19,16
+"Elisa/Daniel",38,18,17
+"Elisa/Daniel",39,19,16
+"Elisa/Daniel",40,16,19
+"Elisa/Daniel",41,17,18
+"Elisa/Daniel",42,16,19
+"Elisa/Daniel",43,17,18
+"Elisa/Daniel",44,16,19
+"Elisa/Daniel",45,15,20
+"Elisa/Daniel",46,20,15
+"Elisa/Daniel",47,16,19
+"Elisa/Daniel",48,16,19
+"Elisa/Daniel",49,18,17
+"Elisa/Daniel",50,18,17
+"Elisa/Daniel",51,16,19
+"Elisa/Daniel",52,15,20
+"Elisa/Daniel",53,19,16
+"Elisa/Daniel",54,19,16
+"Elisa/Daniel",55,18,17
+"Elisa/Daniel",56,20,15
+"Elisa/Daniel",57,16,19
+"Elisa/Daniel",58,17,18
+"Elisa/Daniel",59,17,18
+"Elisa/Daniel",60,17,18
+"Elisa/Daniel",61,19,16
+"Elisa/Daniel",62,16,19
+"Elisa/Daniel",63,20,15
+"Elisa/Daniel",64,18,17
+"Elisa/Daniel",65,17,18
+"Elisa/Daniel",66,16,19
+"Elisa/Daniel",67,19,16
+"Elisa/Daniel",68,18,17
+"Elisa/Daniel",69,17,18
+"Elisa/Daniel",70,17,18
+"Elisa/Daniel",71,17,18
+"Elisa/Daniel",72,18,17
+"Elisa/Daniel",73,18,17
+"Elisa/Daniel",74,15,20
+"Elisa/Daniel",75,18,17
+"Elisa/Daniel",76,17,18
+"Elisa/Daniel",77,20,15
+"Elisa/Daniel",78,18,17
+"Elisa/Daniel",79,20,15
+"Elisa/Daniel",80,20,15
+"Elisa/Daniel",81,17,18
+"Elisa/Daniel",82,19,16
+"Elisa/Daniel",83,17,18
+"Elisa/Daniel",84,20,15
+"Elisa/Daniel",85,17,18
+"Elisa/Daniel",86,16,19
+"Elisa/Daniel",87,15,20
+"Elisa/Daniel",88,17,18
+"Elisa/Daniel",89,18,17
+"Elisa/Daniel",90,15,20
+"Elisa/Daniel",91,18,17
+"Elisa/Daniel",92,17,18
+"Elisa/Daniel",93,16,19
+"Elisa/Daniel",94,15,20
+"Elisa/Daniel",95,19,16
+"Elisa/Daniel",96,18,17
+"Elisa/Daniel",97,17,18
+"Elisa/Daniel",98,17,18
+"Elisa/Daniel",99,17,18
+"Elisa/Daniel",100,18,17
+"Elvis/Wesley",1,21,14
+"Elvis/Wesley",2,17,18
+"Elvis/Wesley",3,3,32
+"Elvis/Wesley",4,26,9
+"Elvis/Wesley",5,22,13
+"Elvis/Wesley",6,13,22
+"Elvis/Wesley",7,2,33
+"Elvis/Wesley",8,12,23
+"Elvis/Wesley",9,17,18
+"Elvis/Wesley",10,25,10
+"Elvis/Wesley",11,25,10
+"Elvis/Wesley",12,18,17
+"Elvis/Wesley",13,11,24
+"Elvis/Wesley",14,14,21
+"Elvis/Wesley",15,11,24
+"Elvis/Wesley",16,32,3
+"Elvis/Wesley",17,11,24
+"Elvis/Wesley",18,31,4
+"Elvis/Wesley",19,24,11
+"Elvis/Wesley",20,1,34
+"Elvis/Wesley",21,34,1
+"Elvis/Wesley",22,11,24
+"Elvis/Wesley",23,28,7
+"Elvis/Wesley",24,25,10
+"Elvis/Wesley",25,6,29
+"Elvis/Wesley",26,33,2
+"Elvis/Wesley",27,5,30
+"Elvis/Wesley",28,33,2
+"Elvis/Wesley",29,29,6
+"Elvis/Wesley",30,19,16
+"Elvis/Wesley",31,28,7
+"Elvis/Wesley",32,18,17
+"Elvis/Wesley",33,4,31
+"Elvis/Wesley",34,20,15
+"Elvis/Wesley",35,29,6
+"Elvis/Wesley",36,29,6
+"Elvis/Wesley",37,6,29
+"Elvis/Wesley",38,8,27
+"Elvis/Wesley",39,23,12
+"Elvis/Wesley",40,16,19
+"Elvis/Wesley",41,20,15
+"Elvis/Wesley",42,19,16
+"Elvis/Wesley",43,11,24
+"Elvis/Wesley",44,28,7
+"Elvis/Wesley",45,33,2
+"Elvis/Wesley",46,18,17
+"Elvis/Wesley",47,14,21
+"Elvis/Wesley",48,20,15
+"Elvis/Wesley",49,22,13
+"Elvis/Wesley",50,19,16
+"Elvis/Wesley",51,21,14
+"Elvis/Wesley",52,9,26
+"Elvis/Wesley",53,20,15
+"Elvis/Wesley",54,29,6
+"Elvis/Wesley",55,34,1
+"Elvis/Wesley",56,6,29
+"Elvis/Wesley",57,24,11
+"Elvis/Wesley",58,7,28
+"Elvis/Wesley",59,7,28
+"Elvis/Wesley",60,11,24
+"Elvis/Wesley",61,5,30
+"Elvis/Wesley",62,15,20
+"Elvis/Wesley",63,25,10
+"Elvis/Wesley",64,5,30
+"Elvis/Wesley",65,12,23
+"Elvis/Wesley",66,11,24
+"Elvis/Wesley",67,19,16
+"Elvis/Wesley",68,25,10
+"Elvis/Wesley",69,2,33
+"Elvis/Wesley",70,15,20
+"Elvis/Wesley",71,11,24
+"Elvis/Wesley",72,10,25
+"Elvis/Wesley",73,34,1
+"Elvis/Wesley",74,18,17
+"Elvis/Wesley",75,19,16
+"Elvis/Wesley",76,4,31
+"Elvis/Wesley",77,13,22
+"Elvis/Wesley",78,27,8
+"Elvis/Wesley",79,19,16
+"Elvis/Wesley",80,34,1
+"Elvis/Wesley",81,19,16
+"Elvis/Wesley",82,31,4
+"Elvis/Wesley",83,33,2
+"Elvis/Wesley",84,30,5
+"Elvis/Wesley",85,2,33
+"Elvis/Wesley",86,2,33
+"Elvis/Wesley",87,13,22
+"Elvis/Wesley",88,19,16
+"Elvis/Wesley",89,32,3
+"Elvis/Wesley",90,34,1
+"Elvis/Wesley",91,7,28
+"Elvis/Wesley",92,4,31
+"Elvis/Wesley",93,28,7
+"Elvis/Wesley",94,32,3
+"Elvis/Wesley",95,14,21
+"Elvis/Wesley",96,12,23
+"Elvis/Wesley",97,29,6
+"Elvis/Wesley",98,13,22
+"Elvis/Wesley",99,18,17
+"Elvis/Wesley",100,27,8
+"Emanuel/Evaristo",1,15,20
+"Emanuel/Evaristo",2,16,19
+"Emanuel/Evaristo",3,19,16
+"Emanuel/Evaristo",4,15,20
+"Emanuel/Evaristo",5,16,19
+"Emanuel/Evaristo",6,18,17
+"Emanuel/Evaristo",7,19,16
+"Emanuel/Evaristo",8,19,16
+"Emanuel/Evaristo",9,19,16
+"Emanuel/Evaristo",10,19,16
+"Emanuel/Evaristo",11,18,17
+"Emanuel/Evaristo",12,16,19
+"Emanuel/Evaristo",13,16,19
+"Emanuel/Evaristo",14,20,15
+"Emanuel/Evaristo",15,16,19
+"Emanuel/Evaristo",16,17,18
+"Emanuel/Evaristo",17,19,16
+"Emanuel/Evaristo",18,17,18
+"Emanuel/Evaristo",19,20,15
+"Emanuel/Evaristo",20,19,16
+"Emanuel/Evaristo",21,14,21
+"Emanuel/Evaristo",22,17,18
+"Emanuel/Evaristo",23,16,19
+"Emanuel/Evaristo",24,16,19
+"Emanuel/Evaristo",25,16,19
+"Emanuel/Evaristo",26,19,16
+"Emanuel/Evaristo",27,21,14
+"Emanuel/Evaristo",28,19,16
+"Emanuel/Evaristo",29,17,18
+"Emanuel/Evaristo",30,15,20
+"Emanuel/Evaristo",31,19,16
+"Emanuel/Evaristo",32,18,17
+"Emanuel/Evaristo",33,16,19
+"Emanuel/Evaristo",34,17,18
+"Emanuel/Evaristo",35,17,18
+"Emanuel/Evaristo",36,18,17
+"Emanuel/Evaristo",37,16,19
+"Emanuel/Evaristo",38,17,18
+"Emanuel/Evaristo",39,17,18
+"Emanuel/Evaristo",40,19,16
+"Emanuel/Evaristo",41,18,17
+"Emanuel/Evaristo",42,17,18
+"Emanuel/Evaristo",43,16,19
+"Emanuel/Evaristo",44,19,16
+"Emanuel/Evaristo",45,18,17
+"Emanuel/Evaristo",46,16,19
+"Emanuel/Evaristo",47,16,19
+"Emanuel/Evaristo",48,17,18
+"Emanuel/Evaristo",49,19,16
+"Emanuel/Evaristo",50,18,17
+"Emanuel/Evaristo",51,17,18
+"Emanuel/Evaristo",52,16,19
+"Emanuel/Evaristo",53,16,19
+"Emanuel/Evaristo",54,15,20
+"Emanuel/Evaristo",55,19,16
+"Emanuel/Evaristo",56,18,17
+"Emanuel/Evaristo",57,17,18
+"Emanuel/Evaristo",58,18,17
+"Emanuel/Evaristo",59,16,19
+"Emanuel/Evaristo",60,17,18
+"Emanuel/Evaristo",61,17,18
+"Emanuel/Evaristo",62,18,17
+"Emanuel/Evaristo",63,16,19
+"Emanuel/Evaristo",64,18,17
+"Emanuel/Evaristo",65,19,16
+"Emanuel/Evaristo",66,17,18
+"Emanuel/Evaristo",67,17,18
+"Emanuel/Evaristo",68,16,19
+"Emanuel/Evaristo",69,17,18
+"Emanuel/Evaristo",70,16,19
+"Emanuel/Evaristo",71,17,18
+"Emanuel/Evaristo",72,18,17
+"Emanuel/Evaristo",73,17,18
+"Emanuel/Evaristo",74,17,18
+"Emanuel/Evaristo",75,17,18
+"Emanuel/Evaristo",76,18,17
+"Emanuel/Evaristo",77,17,18
+"Emanuel/Evaristo",78,19,16
+"Emanuel/Evaristo",79,19,16
+"Emanuel/Evaristo",80,20,15
+"Emanuel/Evaristo",81,17,18
+"Emanuel/Evaristo",82,18,17
+"Emanuel/Evaristo",83,17,18
+"Emanuel/Evaristo",84,17,18
+"Emanuel/Evaristo",85,19,16
+"Emanuel/Evaristo",86,16,19
+"Emanuel/Evaristo",87,18,17
+"Emanuel/Evaristo",88,15,20
+"Emanuel/Evaristo",89,16,19
+"Emanuel/Evaristo",90,17,18
+"Emanuel/Evaristo",91,16,19
+"Emanuel/Evaristo",92,19,16
+"Emanuel/Evaristo",93,17,18
+"Emanuel/Evaristo",94,15,20
+"Emanuel/Evaristo",95,19,16
+"Emanuel/Evaristo",96,18,17
+"Emanuel/Evaristo",97,18,17
+"Emanuel/Evaristo",98,17,18
+"Emanuel/Evaristo",99,19,16
+"Emanuel/Evaristo",100,18,17
+"Ericleio/Celestino",1,15,20
+"Ericleio/Celestino",2,17,18
+"Ericleio/Celestino",3,19,16
+"Ericleio/Celestino",4,17,18
+"Ericleio/Celestino",5,17,18
+"Ericleio/Celestino",6,17,18
+"Ericleio/Celestino",7,18,17
+"Ericleio/Celestino",8,17,18
+"Ericleio/Celestino",9,17,18
+"Ericleio/Celestino",10,16,19
+"Ericleio/Celestino",11,15,20
+"Ericleio/Celestino",12,19,16
+"Ericleio/Celestino",13,19,16
+"Ericleio/Celestino",14,16,19
+"Ericleio/Celestino",15,17,18
+"Ericleio/Celestino",16,19,16
+"Ericleio/Celestino",17,17,18
+"Ericleio/Celestino",18,18,17
+"Ericleio/Celestino",19,19,16
+"Ericleio/Celestino",20,16,19
+"Ericleio/Celestino",21,20,15
+"Ericleio/Celestino",22,18,17
+"Ericleio/Celestino",23,18,17
+"Ericleio/Celestino",24,17,18
+"Ericleio/Celestino",25,17,18
+"Ericleio/Celestino",26,18,17
+"Ericleio/Celestino",27,18,17
+"Ericleio/Celestino",28,16,19
+"Ericleio/Celestino",29,15,20
+"Ericleio/Celestino",30,20,15
+"Ericleio/Celestino",31,19,16
+"Ericleio/Celestino",32,17,18
+"Ericleio/Celestino",33,15,20
+"Ericleio/Celestino",34,16,19
+"Ericleio/Celestino",35,18,17
+"Ericleio/Celestino",36,18,17
+"Ericleio/Celestino",37,18,17
+"Ericleio/Celestino",38,19,16
+"Ericleio/Celestino",39,18,17
+"Ericleio/Celestino",40,18,17
+"Ericleio/Celestino",41,15,20
+"Ericleio/Celestino",42,21,14
+"Ericleio/Celestino",43,16,19
+"Ericleio/Celestino",44,21,14
+"Ericleio/Celestino",45,17,18
+"Ericleio/Celestino",46,21,14
+"Ericleio/Celestino",47,19,16
+"Ericleio/Celestino",48,16,19
+"Ericleio/Celestino",49,16,19
+"Ericleio/Celestino",50,16,19
+"Ericleio/Celestino",51,17,18
+"Ericleio/Celestino",52,16,19
+"Ericleio/Celestino",53,19,16
+"Ericleio/Celestino",54,16,19
+"Ericleio/Celestino",55,16,19
+"Ericleio/Celestino",56,15,20
+"Ericleio/Celestino",57,16,19
+"Ericleio/Celestino",58,15,20
+"Ericleio/Celestino",59,19,16
+"Ericleio/Celestino",60,18,17
+"Ericleio/Celestino",61,15,20
+"Ericleio/Celestino",62,17,18
+"Ericleio/Celestino",63,18,17
+"Ericleio/Celestino",64,16,19
+"Ericleio/Celestino",65,15,20
+"Ericleio/Celestino",66,16,19
+"Ericleio/Celestino",67,18,17
+"Ericleio/Celestino",68,18,17
+"Ericleio/Celestino",69,17,18
+"Ericleio/Celestino",70,15,20
+"Ericleio/Celestino",71,16,19
+"Ericleio/Celestino",72,17,18
+"Ericleio/Celestino",73,17,18
+"Ericleio/Celestino",74,20,15
+"Ericleio/Celestino",75,19,16
+"Ericleio/Celestino",76,19,16
+"Ericleio/Celestino",77,17,18
+"Ericleio/Celestino",78,16,19
+"Ericleio/Celestino",79,18,17
+"Ericleio/Celestino",80,17,18
+"Ericleio/Celestino",81,18,17
+"Ericleio/Celestino",82,17,18
+"Ericleio/Celestino",83,17,18
+"Ericleio/Celestino",84,18,17
+"Ericleio/Celestino",85,19,16
+"Ericleio/Celestino",86,16,19
+"Ericleio/Celestino",87,19,16
+"Ericleio/Celestino",88,17,18
+"Ericleio/Celestino",89,19,16
+"Ericleio/Celestino",90,17,18
+"Ericleio/Celestino",91,17,18
+"Ericleio/Celestino",92,19,16
+"Ericleio/Celestino",93,19,16
+"Ericleio/Celestino",94,18,17
+"Ericleio/Celestino",95,18,17
+"Ericleio/Celestino",96,17,18
+"Ericleio/Celestino",97,16,19
+"Ericleio/Celestino",98,18,17
+"Ericleio/Celestino",99,20,15
+"Ericleio/Celestino",100,18,17
+"Francisco/Selvania",1,18,17
+"Francisco/Selvania",2,17,18
+"Francisco/Selvania",3,17,18
+"Francisco/Selvania",4,19,16
+"Francisco/Selvania",5,16,19
+"Francisco/Selvania",6,17,18
+"Francisco/Selvania",7,17,18
+"Francisco/Selvania",8,19,16
+"Francisco/Selvania",9,16,19
+"Francisco/Selvania",10,18,17
+"Francisco/Selvania",11,19,16
+"Francisco/Selvania",12,14,21
+"Francisco/Selvania",13,16,19
+"Francisco/Selvania",14,19,16
+"Francisco/Selvania",15,14,21
+"Francisco/Selvania",16,19,16
+"Francisco/Selvania",17,16,19
+"Francisco/Selvania",18,21,14
+"Francisco/Selvania",19,21,14
+"Francisco/Selvania",20,16,19
+"Francisco/Selvania",21,19,16
+"Francisco/Selvania",22,16,19
+"Francisco/Selvania",23,20,15
+"Francisco/Selvania",24,19,16
+"Francisco/Selvania",25,15,20
+"Francisco/Selvania",26,18,17
+"Francisco/Selvania",27,17,18
+"Francisco/Selvania",28,17,18
+"Francisco/Selvania",29,17,18
+"Francisco/Selvania",30,18,17
+"Francisco/Selvania",31,17,18
+"Francisco/Selvania",32,17,18
+"Francisco/Selvania",33,18,17
+"Francisco/Selvania",34,18,17
+"Francisco/Selvania",35,20,15
+"Francisco/Selvania",36,20,15
+"Francisco/Selvania",37,16,19
+"Francisco/Selvania",38,12,23
+"Francisco/Selvania",39,16,19
+"Francisco/Selvania",40,19,16
+"Francisco/Selvania",41,18,17
+"Francisco/Selvania",42,18,17
+"Francisco/Selvania",43,17,18
+"Francisco/Selvania",44,17,18
+"Francisco/Selvania",45,13,22
+"Francisco/Selvania",46,18,17
+"Francisco/Selvania",47,16,19
+"Francisco/Selvania",48,19,16
+"Francisco/Selvania",49,17,18
+"Francisco/Selvania",50,17,18
+"Francisco/Selvania",51,17,18
+"Francisco/Selvania",52,20,15
+"Francisco/Selvania",53,17,18
+"Francisco/Selvania",54,16,19
+"Francisco/Selvania",55,19,16
+"Francisco/Selvania",56,19,16
+"Francisco/Selvania",57,17,18
+"Francisco/Selvania",58,18,17
+"Francisco/Selvania",59,18,17
+"Francisco/Selvania",60,16,19
+"Francisco/Selvania",61,17,18
+"Francisco/Selvania",62,17,18
+"Francisco/Selvania",63,19,16
+"Francisco/Selvania",64,15,20
+"Francisco/Selvania",65,18,17
+"Francisco/Selvania",66,18,17
+"Francisco/Selvania",67,17,18
+"Francisco/Selvania",68,18,17
+"Francisco/Selvania",69,18,17
+"Francisco/Selvania",70,18,17
+"Francisco/Selvania",71,17,18
+"Francisco/Selvania",72,19,16
+"Francisco/Selvania",73,19,16
+"Francisco/Selvania",74,19,16
+"Francisco/Selvania",75,17,18
+"Francisco/Selvania",76,17,18
+"Francisco/Selvania",77,19,16
+"Francisco/Selvania",78,17,18
+"Francisco/Selvania",79,18,17
+"Francisco/Selvania",80,19,16
+"Francisco/Selvania",81,17,18
+"Francisco/Selvania",82,18,17
+"Francisco/Selvania",83,18,17
+"Francisco/Selvania",84,20,15
+"Francisco/Selvania",85,19,16
+"Francisco/Selvania",86,16,19
+"Francisco/Selvania",87,15,20
+"Francisco/Selvania",88,20,15
+"Francisco/Selvania",89,14,21
+"Francisco/Selvania",90,18,17
+"Francisco/Selvania",91,16,19
+"Francisco/Selvania",92,17,18
+"Francisco/Selvania",93,19,16
+"Francisco/Selvania",94,17,18
+"Francisco/Selvania",95,19,16
+"Francisco/Selvania",96,15,20
+"Francisco/Selvania",97,17,18
+"Francisco/Selvania",98,18,17
+"Francisco/Selvania",99,14,21
+"Francisco/Selvania",100,16,19
+"Cinthya/Guilhermina",1,15,20
+"Cinthya/Guilhermina",2,20,15
+"Cinthya/Guilhermina",3,18,17
+"Cinthya/Guilhermina",4,20,15
+"Cinthya/Guilhermina",5,18,17
+"Cinthya/Guilhermina",6,18,17
+"Cinthya/Guilhermina",7,16,19
+"Cinthya/Guilhermina",8,18,17
+"Cinthya/Guilhermina",9,16,19
+"Cinthya/Guilhermina",10,16,19
+"Cinthya/Guilhermina",11,21,14
+"Cinthya/Guilhermina",12,18,17
+"Cinthya/Guilhermina",13,19,16
+"Cinthya/Guilhermina",14,18,17
+"Cinthya/Guilhermina",15,17,18
+"Cinthya/Guilhermina",16,16,19
+"Cinthya/Guilhermina",17,21,14
+"Cinthya/Guilhermina",18,17,18
+"Cinthya/Guilhermina",19,15,20
+"Cinthya/Guilhermina",20,16,19
+"Cinthya/Guilhermina",21,17,18
+"Cinthya/Guilhermina",22,17,18
+"Cinthya/Guilhermina",23,17,18
+"Cinthya/Guilhermina",24,17,18
+"Cinthya/Guilhermina",25,18,17
+"Cinthya/Guilhermina",26,19,16
+"Cinthya/Guilhermina",27,15,20
+"Cinthya/Guilhermina",28,16,19
+"Cinthya/Guilhermina",29,17,18
+"Cinthya/Guilhermina",30,15,20
+"Cinthya/Guilhermina",31,16,19
+"Cinthya/Guilhermina",32,18,17
+"Cinthya/Guilhermina",33,19,16
+"Cinthya/Guilhermina",34,18,17
+"Cinthya/Guilhermina",35,16,19
+"Cinthya/Guilhermina",36,18,17
+"Cinthya/Guilhermina",37,18,17
+"Cinthya/Guilhermina",38,16,19
+"Cinthya/Guilhermina",39,17,18
+"Cinthya/Guilhermina",40,16,19
+"Cinthya/Guilhermina",41,19,16
+"Cinthya/Guilhermina",42,19,16
+"Cinthya/Guilhermina",43,16,19
+"Cinthya/Guilhermina",44,17,18
+"Cinthya/Guilhermina",45,18,17
+"Cinthya/Guilhermina",46,15,20
+"Cinthya/Guilhermina",47,16,19
+"Cinthya/Guilhermina",48,19,16
+"Cinthya/Guilhermina",49,18,17
+"Cinthya/Guilhermina",50,19,16
+"Cinthya/Guilhermina",51,18,17
+"Cinthya/Guilhermina",52,19,16
+"Cinthya/Guilhermina",53,17,18
+"Cinthya/Guilhermina",54,16,19
+"Cinthya/Guilhermina",55,17,18
+"Cinthya/Guilhermina",56,20,15
+"Cinthya/Guilhermina",57,19,16
+"Cinthya/Guilhermina",58,19,16
+"Cinthya/Guilhermina",59,15,20
+"Cinthya/Guilhermina",60,19,16
+"Cinthya/Guilhermina",61,19,16
+"Cinthya/Guilhermina",62,20,15
+"Cinthya/Guilhermina",63,17,18
+"Cinthya/Guilhermina",64,17,18
+"Cinthya/Guilhermina",65,18,17
+"Cinthya/Guilhermina",66,18,17
+"Cinthya/Guilhermina",67,18,17
+"Cinthya/Guilhermina",68,19,16
+"Cinthya/Guilhermina",69,18,17
+"Cinthya/Guilhermina",70,18,17
+"Cinthya/Guilhermina",71,20,15
+"Cinthya/Guilhermina",72,18,17
+"Cinthya/Guilhermina",73,17,18
+"Cinthya/Guilhermina",74,19,16
+"Cinthya/Guilhermina",75,19,16
+"Cinthya/Guilhermina",76,18,17
+"Cinthya/Guilhermina",77,18,17
+"Cinthya/Guilhermina",78,20,15
+"Cinthya/Guilhermina",79,15,20
+"Cinthya/Guilhermina",80,17,18
+"Cinthya/Guilhermina",81,17,18
+"Cinthya/Guilhermina",82,17,18
+"Cinthya/Guilhermina",83,20,15
+"Cinthya/Guilhermina",84,18,17
+"Cinthya/Guilhermina",85,16,19
+"Cinthya/Guilhermina",86,20,15
+"Cinthya/Guilhermina",87,16,19
+"Cinthya/Guilhermina",88,17,18
+"Cinthya/Guilhermina",89,17,18
+"Cinthya/Guilhermina",90,16,19
+"Cinthya/Guilhermina",91,17,18
+"Cinthya/Guilhermina",92,18,17
+"Cinthya/Guilhermina",93,18,17
+"Cinthya/Guilhermina",94,19,16
+"Cinthya/Guilhermina",95,16,19
+"Cinthya/Guilhermina",96,16,19
+"Cinthya/Guilhermina",97,18,17
+"Cinthya/Guilhermina",98,17,18
+"Cinthya/Guilhermina",99,18,17
+"Cinthya/Guilhermina",100,15,20
+"Inês Pereira",1,15,20
+"Inês Pereira",2,20,15
+"Inês Pereira",3,18,17
+"Inês Pereira",4,20,15
+"Inês Pereira",5,18,17
+"Inês Pereira",6,18,17
+"Inês Pereira",7,16,19
+"Inês Pereira",8,18,17
+"Inês Pereira",9,16,19
+"Inês Pereira",10,16,19
+"Inês Pereira",11,21,14
+"Inês Pereira",12,18,17
+"Inês Pereira",13,19,16
+"Inês Pereira",14,18,17
+"Inês Pereira",15,17,18
+"Inês Pereira",16,16,19
+"Inês Pereira",17,21,14
+"Inês Pereira",18,17,18
+"Inês Pereira",19,15,20
+"Inês Pereira",20,16,19
+"Inês Pereira",21,17,18
+"Inês Pereira",22,17,18
+"Inês Pereira",23,17,18
+"Inês Pereira",24,17,18
+"Inês Pereira",25,18,17
+"Inês Pereira",26,19,16
+"Inês Pereira",27,15,20
+"Inês Pereira",28,16,19
+"Inês Pereira",29,17,18
+"Inês Pereira",30,15,20
+"Inês Pereira",31,16,19
+"Inês Pereira",32,18,17
+"Inês Pereira",33,19,16
+"Inês Pereira",34,18,17
+"Inês Pereira",35,16,19
+"Inês Pereira",36,18,17
+"Inês Pereira",37,18,17
+"Inês Pereira",38,16,19
+"Inês Pereira",39,17,18
+"Inês Pereira",40,16,19
+"Inês Pereira",41,19,16
+"Inês Pereira",42,19,16
+"Inês Pereira",43,16,19
+"Inês Pereira",44,17,18
+"Inês Pereira",45,18,17
+"Inês Pereira",46,15,20
+"Inês Pereira",47,16,19
+"Inês Pereira",48,19,16
+"Inês Pereira",49,18,17
+"Inês Pereira",50,19,16
+"Inês Pereira",51,18,17
+"Inês Pereira",52,19,16
+"Inês Pereira",53,17,18
+"Inês Pereira",54,16,19
+"Inês Pereira",55,17,18
+"Inês Pereira",56,20,15
+"Inês Pereira",57,19,16
+"Inês Pereira",58,19,16
+"Inês Pereira",59,15,20
+"Inês Pereira",60,19,16
+"Inês Pereira",61,19,16
+"Inês Pereira",62,20,15
+"Inês Pereira",63,17,18
+"Inês Pereira",64,17,18
+"Inês Pereira",65,18,17
+"Inês Pereira",66,18,17
+"Inês Pereira",67,18,17
+"Inês Pereira",68,19,16
+"Inês Pereira",69,18,17
+"Inês Pereira",70,18,17
+"Inês Pereira",71,20,15
+"Inês Pereira",72,18,17
+"Inês Pereira",73,17,18
+"Inês Pereira",74,19,16
+"Inês Pereira",75,19,16
+"Inês Pereira",76,18,17
+"Inês Pereira",77,18,17
+"Inês Pereira",78,20,15
+"Inês Pereira",79,15,20
+"Inês Pereira",80,17,18
+"Inês Pereira",81,17,18
+"Inês Pereira",82,17,18
+"Inês Pereira",83,20,15
+"Inês Pereira",84,18,17
+"Inês Pereira",85,16,19
+"Inês Pereira",86,20,15
+"Inês Pereira",87,16,19
+"Inês Pereira",88,17,18
+"Inês Pereira",89,17,18
+"Inês Pereira",90,16,19
+"Inês Pereira",91,17,18
+"Inês Pereira",92,18,17
+"Inês Pereira",93,18,17
+"Inês Pereira",94,19,16
+"Inês Pereira",95,16,19
+"Inês Pereira",96,16,19
+"Inês Pereira",97,18,17
+"Inês Pereira",98,17,18
+"Inês Pereira",99,18,17
+"Inês Pereira",100,15,20
+"Inês Marques",1,18,17
+"Inês Marques",2,17,18
+"Inês Marques",3,16,19
+"Inês Marques",4,19,16
+"Inês Marques",5,17,18
+"Inês Marques",6,13,22
+"Inês Marques",7,17,18
+"Inês Marques",8,21,14
+"Inês Marques",9,17,18
+"Inês Marques",10,18,17
+"Inês Marques",11,22,13
+"Inês Marques",12,17,18
+"Inês Marques",13,14,21
+"Inês Marques",14,18,17
+"Inês Marques",15,18,17
+"Inês Marques",16,17,18
+"Inês Marques",17,19,16
+"Inês Marques",18,17,18
+"Inês Marques",19,18,17
+"Inês Marques",20,14,21
+"Inês Marques",21,18,17
+"Inês Marques",22,21,14
+"Inês Marques",23,18,17
+"Inês Marques",24,17,18
+"Inês Marques",25,19,16
+"Inês Marques",26,19,16
+"Inês Marques",27,17,18
+"Inês Marques",28,21,14
+"Inês Marques",29,16,19
+"Inês Marques",30,15,20
+"Inês Marques",31,20,15
+"Inês Marques",32,19,16
+"Inês Marques",33,17,18
+"Inês Marques",34,19,16
+"Inês Marques",35,14,21
+"Inês Marques",36,18,17
+"Inês Marques",37,19,16
+"Inês Marques",38,22,13
+"Inês Marques",39,17,18
+"Inês Marques",40,18,17
+"Inês Marques",41,14,21
+"Inês Marques",42,19,16
+"Inês Marques",43,15,20
+"Inês Marques",44,16,19
+"Inês Marques",45,17,18
+"Inês Marques",46,19,16
+"Inês Marques",47,16,19
+"Inês Marques",48,16,19
+"Inês Marques",49,18,17
+"Inês Marques",50,18,17
+"Inês Marques",51,21,14
+"Inês Marques",52,18,17
+"Inês Marques",53,14,21
+"Inês Marques",54,15,20
+"Inês Marques",55,16,19
+"Inês Marques",56,17,18
+"Inês Marques",57,18,17
+"Inês Marques",58,18,17
+"Inês Marques",59,18,17
+"Inês Marques",60,17,18
+"Inês Marques",61,18,17
+"Inês Marques",62,18,17
+"Inês Marques",63,21,14
+"Inês Marques",64,16,19
+"Inês Marques",65,18,17
+"Inês Marques",66,17,18
+"Inês Marques",67,16,19
+"Inês Marques",68,17,18
+"Inês Marques",69,16,19
+"Inês Marques",70,21,14
+"Inês Marques",71,17,18
+"Inês Marques",72,14,21
+"Inês Marques",73,17,18
+"Inês Marques",74,16,19
+"Inês Marques",75,19,16
+"Inês Marques",76,16,19
+"Inês Marques",77,18,17
+"Inês Marques",78,20,15
+"Inês Marques",79,15,20
+"Inês Marques",80,19,16
+"Inês Marques",81,15,20
+"Inês Marques",82,16,19
+"Inês Marques",83,17,18
+"Inês Marques",84,16,19
+"Inês Marques",85,19,16
+"Inês Marques",86,15,20
+"Inês Marques",87,16,19
+"Inês Marques",88,20,15
+"Inês Marques",89,13,22
+"Inês Marques",90,17,18
+"Inês Marques",91,16,19
+"Inês Marques",92,17,18
+"Inês Marques",93,19,16
+"Inês Marques",94,21,14
+"Inês Marques",95,20,15
+"Inês Marques",96,17,18
+"Inês Marques",97,21,14
+"Inês Marques",98,13,22
+"Inês Marques",99,17,18
+"Inês Marques",100,20,15
+"kynara/ivã",1,15,20
+"kynara/ivã",2,20,15
+"kynara/ivã",3,18,17
+"kynara/ivã",4,20,15
+"kynara/ivã",5,18,17
+"kynara/ivã",6,18,17
+"kynara/ivã",7,16,19
+"kynara/ivã",8,18,17
+"kynara/ivã",9,16,19
+"kynara/ivã",10,16,19
+"kynara/ivã",11,21,14
+"kynara/ivã",12,18,17
+"kynara/ivã",13,19,16
+"kynara/ivã",14,18,17
+"kynara/ivã",15,17,18
+"kynara/ivã",16,16,19
+"kynara/ivã",17,21,14
+"kynara/ivã",18,17,18
+"kynara/ivã",19,15,20
+"kynara/ivã",20,16,19
+"kynara/ivã",21,17,18
+"kynara/ivã",22,17,18
+"kynara/ivã",23,17,18
+"kynara/ivã",24,17,18
+"kynara/ivã",25,18,17
+"kynara/ivã",26,19,16
+"kynara/ivã",27,15,20
+"kynara/ivã",28,16,19
+"kynara/ivã",29,17,18
+"kynara/ivã",30,15,20
+"kynara/ivã",31,16,19
+"kynara/ivã",32,18,17
+"kynara/ivã",33,19,16
+"kynara/ivã",34,18,17
+"kynara/ivã",35,16,19
+"kynara/ivã",36,18,17
+"kynara/ivã",37,18,17
+"kynara/ivã",38,16,19
+"kynara/ivã",39,17,18
+"kynara/ivã",40,16,19
+"kynara/ivã",41,19,16
+"kynara/ivã",42,19,16
+"kynara/ivã",43,16,19
+"kynara/ivã",44,17,18
+"kynara/ivã",45,18,17
+"kynara/ivã",46,15,20
+"kynara/ivã",47,16,19
+"kynara/ivã",48,19,16
+"kynara/ivã",49,18,17
+"kynara/ivã",50,19,16
+"kynara/ivã",51,18,17
+"kynara/ivã",52,19,16
+"kynara/ivã",53,17,18
+"kynara/ivã",54,16,19
+"kynara/ivã",55,17,18
+"kynara/ivã",56,20,15
+"kynara/ivã",57,19,16
+"kynara/ivã",58,19,16
+"kynara/ivã",59,15,20
+"kynara/ivã",60,19,16
+"kynara/ivã",61,19,16
+"kynara/ivã",62,20,15
+"kynara/ivã",63,17,18
+"kynara/ivã",64,17,18
+"kynara/ivã",65,18,17
+"kynara/ivã",66,18,17
+"kynara/ivã",67,18,17
+"kynara/ivã",68,19,16
+"kynara/ivã",69,18,17
+"kynara/ivã",70,18,17
+"kynara/ivã",71,20,15
+"kynara/ivã",72,18,17
+"kynara/ivã",73,17,18
+"kynara/ivã",74,19,16
+"kynara/ivã",75,19,16
+"kynara/ivã",76,18,17
+"kynara/ivã",77,18,17
+"kynara/ivã",78,20,15
+"kynara/ivã",79,15,20
+"kynara/ivã",80,17,18
+"kynara/ivã",81,17,18
+"kynara/ivã",82,17,18
+"kynara/ivã",83,20,15
+"kynara/ivã",84,18,17
+"kynara/ivã",85,16,19
+"kynara/ivã",86,20,15
+"kynara/ivã",87,16,19
+"kynara/ivã",88,17,18
+"kynara/ivã",89,17,18
+"kynara/ivã",90,16,19
+"kynara/ivã",91,17,18
+"kynara/ivã",92,18,17
+"kynara/ivã",93,18,17
+"kynara/ivã",94,19,16
+"kynara/ivã",95,16,19
+"kynara/ivã",96,16,19
+"kynara/ivã",97,18,17
+"kynara/ivã",98,17,18
+"kynara/ivã",99,18,17
+"kynara/ivã",100,20,15
+"Láudria/Yunne",1,16,19
+"Láudria/Yunne",2,18,17
+"Láudria/Yunne",3,18,17
+"Láudria/Yunne",4,13,22
+"Láudria/Yunne",5,16,19
+"Láudria/Yunne",6,17,18
+"Láudria/Yunne",7,21,14
+"Láudria/Yunne",8,17,18
+"Láudria/Yunne",9,17,18
+"Láudria/Yunne",10,17,18
+"Láudria/Yunne",11,17,18
+"Láudria/Yunne",12,18,17
+"Láudria/Yunne",13,18,17
+"Láudria/Yunne",14,20,15
+"Láudria/Yunne",15,17,18
+"Láudria/Yunne",16,22,13
+"Láudria/Yunne",17,17,18
+"Láudria/Yunne",18,17,18
+"Láudria/Yunne",19,19,16
+"Láudria/Yunne",20,18,17
+"Láudria/Yunne",21,16,19
+"Láudria/Yunne",22,18,17
+"Láudria/Yunne",23,20,15
+"Láudria/Yunne",24,21,14
+"Láudria/Yunne",25,17,18
+"Láudria/Yunne",26,19,16
+"Láudria/Yunne",27,18,17
+"Láudria/Yunne",28,20,15
+"Láudria/Yunne",29,17,18
+"Láudria/Yunne",30,18,17
+"Láudria/Yunne",31,16,19
+"Láudria/Yunne",32,17,18
+"Láudria/Yunne",33,21,14
+"Láudria/Yunne",34,21,14
+"Láudria/Yunne",35,18,17
+"Láudria/Yunne",36,19,16
+"Láudria/Yunne",37,18,17
+"Láudria/Yunne",38,16,19
+"Láudria/Yunne",39,19,16
+"Láudria/Yunne",40,17,18
+"Láudria/Yunne",41,18,17
+"Láudria/Yunne",42,16,19
+"Láudria/Yunne",43,19,16
+"Láudria/Yunne",44,16,19
+"Láudria/Yunne",45,20,15
+"Láudria/Yunne",46,21,14
+"Láudria/Yunne",47,19,16
+"Láudria/Yunne",48,20,15
+"Láudria/Yunne",49,19,16
+"Láudria/Yunne",50,17,18
+"Láudria/Yunne",51,17,18
+"Láudria/Yunne",52,15,20
+"Láudria/Yunne",53,19,16
+"Láudria/Yunne",54,21,14
+"Láudria/Yunne",55,17,18
+"Láudria/Yunne",56,17,18
+"Láudria/Yunne",57,16,19
+"Láudria/Yunne",58,17,18
+"Láudria/Yunne",59,16,19
+"Láudria/Yunne",60,17,18
+"Láudria/Yunne",61,18,17
+"Láudria/Yunne",62,15,20
+"Láudria/Yunne",63,15,20
+"Láudria/Yunne",64,18,17
+"Láudria/Yunne",65,18,17
+"Láudria/Yunne",66,17,18
+"Láudria/Yunne",67,18,17
+"Láudria/Yunne",68,16,19
+"Láudria/Yunne",69,19,16
+"Láudria/Yunne",70,16,19
+"Láudria/Yunne",71,16,19
+"Láudria/Yunne",72,20,15
+"Láudria/Yunne",73,17,18
+"Láudria/Yunne",74,17,18
+"Láudria/Yunne",75,19,16
+"Láudria/Yunne",76,15,20
+"Láudria/Yunne",77,15,20
+"Láudria/Yunne",78,18,17
+"Láudria/Yunne",79,16,19
+"Láudria/Yunne",80,16,19
+"Láudria/Yunne",81,17,18
+"Láudria/Yunne",82,16,19
+"Láudria/Yunne",83,19,16
+"Láudria/Yunne",84,17,18
+"Láudria/Yunne",85,19,16
+"Láudria/Yunne",86,16,19
+"Láudria/Yunne",87,19,16
+"Láudria/Yunne",88,17,18
+"Láudria/Yunne",89,19,16
+"Láudria/Yunne",90,19,16
+"Láudria/Yunne",91,17,18
+"Láudria/Yunne",92,16,19
+"Láudria/Yunne",93,19,16
+"Láudria/Yunne",94,17,18
+"Láudria/Yunne",95,18,17
+"Láudria/Yunne",96,17,18
+"Láudria/Yunne",97,16,19
+"Láudria/Yunne",98,18,17
+"Láudria/Yunne",99,20,15
+"Láudria/Yunne",100,20,15
+"Maria/Denilze",1,19,16
+"Maria/Denilze",2,19,16
+"Maria/Denilze",3,16,19
+"Maria/Denilze",4,19,16
+"Maria/Denilze",5,19,16
+"Maria/Denilze",6,16,19
+"Maria/Denilze",7,17,18
+"Maria/Denilze",8,16,19
+"Maria/Denilze",9,18,17
+"Maria/Denilze",10,14,21
+"Maria/Denilze",11,15,20
+"Maria/Denilze",12,19,16
+"Maria/Denilze",13,18,17
+"Maria/Denilze",14,17,18
+"Maria/Denilze",15,17,18
+"Maria/Denilze",16,18,17
+"Maria/Denilze",17,14,21
+"Maria/Denilze",18,19,16
+"Maria/Denilze",19,21,14
+"Maria/Denilze",20,16,19
+"Maria/Denilze",21,17,18
+"Maria/Denilze",22,19,16
+"Maria/Denilze",23,16,19
+"Maria/Denilze",24,17,18
+"Maria/Denilze",25,18,17
+"Maria/Denilze",26,20,15
+"Maria/Denilze",27,20,15
+"Maria/Denilze",28,17,18
+"Maria/Denilze",29,15,20
+"Maria/Denilze",30,18,17
+"Maria/Denilze",31,18,17
+"Maria/Denilze",32,18,17
+"Maria/Denilze",33,19,16
+"Maria/Denilze",34,17,18
+"Maria/Denilze",35,14,21
+"Maria/Denilze",36,18,17
+"Maria/Denilze",37,19,16
+"Maria/Denilze",38,22,13
+"Maria/Denilze",39,19,16
+"Maria/Denilze",40,17,18
+"Maria/Denilze",41,19,16
+"Maria/Denilze",42,16,19
+"Maria/Denilze",43,19,16
+"Maria/Denilze",44,17,18
+"Maria/Denilze",45,15,20
+"Maria/Denilze",46,21,14
+"Maria/Denilze",47,19,16
+"Maria/Denilze",48,18,17
+"Maria/Denilze",49,16,19
+"Maria/Denilze",50,19,16
+"Maria/Denilze",51,15,20
+"Maria/Denilze",52,19,16
+"Maria/Denilze",53,15,20
+"Maria/Denilze",54,20,15
+"Maria/Denilze",55,17,18
+"Maria/Denilze",56,19,16
+"Maria/Denilze",57,19,16
+"Maria/Denilze",58,15,20
+"Maria/Denilze",59,18,17
+"Maria/Denilze",60,16,19
+"Maria/Denilze",61,16,19
+"Maria/Denilze",62,17,18
+"Maria/Denilze",63,17,18
+"Maria/Denilze",64,16,19
+"Maria/Denilze",65,18,17
+"Maria/Denilze",66,20,15
+"Maria/Denilze",67,17,18
+"Maria/Denilze",68,18,17
+"Maria/Denilze",69,18,17
+"Maria/Denilze",70,16,19
+"Maria/Denilze",71,18,17
+"Maria/Denilze",72,17,18
+"Maria/Denilze",73,18,17
+"Maria/Denilze",74,15,20
+"Maria/Denilze",75,20,15
+"Maria/Denilze",76,17,18
+"Maria/Denilze",77,16,19
+"Maria/Denilze",78,19,16
+"Maria/Denilze",79,20,15
+"Maria/Denilze",80,16,19
+"Maria/Denilze",81,15,20
+"Maria/Denilze",82,16,19
+"Maria/Denilze",83,19,16
+"Maria/Denilze",84,16,19
+"Maria/Denilze",85,15,20
+"Maria/Denilze",86,18,17
+"Maria/Denilze",87,16,19
+"Maria/Denilze",88,18,17
+"Maria/Denilze",89,17,18
+"Maria/Denilze",90,18,17
+"Maria/Denilze",91,19,16
+"Maria/Denilze",92,16,19
+"Maria/Denilze",93,19,16
+"Maria/Denilze",94,18,17
+"Maria/Denilze",95,16,19
+"Maria/Denilze",96,18,17
+"Maria/Denilze",97,17,18
+"Maria/Denilze",98,16,19
+"Maria/Denilze",99,18,17
+"Maria/Denilze",100,16,19
+"Marília",1,15,20
+"Marília",2,20,15
+"Marília",3,18,17
+"Marília",4,20,15
+"Marília",5,18,17
+"Marília",6,18,17
+"Marília",7,16,19
+"Marília",8,18,17
+"Marília",9,16,19
+"Marília",10,16,19
+"Marília",11,21,14
+"Marília",12,18,17
+"Marília",13,19,16
+"Marília",14,18,17
+"Marília",15,17,18
+"Marília",16,16,19
+"Marília",17,21,14
+"Marília",18,17,18
+"Marília",19,15,20
+"Marília",20,16,19
+"Marília",21,17,18
+"Marília",22,17,18
+"Marília",23,17,18
+"Marília",24,17,18
+"Marília",25,18,17
+"Marília",26,19,16
+"Marília",27,15,20
+"Marília",28,16,19
+"Marília",29,17,18
+"Marília",30,15,20
+"Marília",31,16,19
+"Marília",32,18,17
+"Marília",33,19,16
+"Marília",34,18,17
+"Marília",35,16,19
+"Marília",36,18,17
+"Marília",37,18,17
+"Marília",38,16,19
+"Marília",39,17,18
+"Marília",40,16,19
+"Marília",41,19,16
+"Marília",42,19,16
+"Marília",43,16,19
+"Marília",44,17,18
+"Marília",45,18,17
+"Marília",46,15,20
+"Marília",47,16,19
+"Marília",48,19,16
+"Marília",49,18,17
+"Marília",50,19,16
+"Marília",51,18,17
+"Marília",52,19,16
+"Marília",53,17,18
+"Marília",54,16,19
+"Marília",55,17,18
+"Marília",56,20,15
+"Marília",57,19,16
+"Marília",58,19,16
+"Marília",59,15,20
+"Marília",60,19,16
+"Marília",61,19,16
+"Marília",62,20,15
+"Marília",63,17,18
+"Marília",64,17,18
+"Marília",65,18,17
+"Marília",66,18,17
+"Marília",67,18,17
+"Marília",68,19,16
+"Marília",69,18,17
+"Marília",70,18,17
+"Marília",71,20,15
+"Marília",72,18,17
+"Marília",73,17,18
+"Marília",74,19,16
+"Marília",75,19,16
+"Marília",76,18,17
+"Marília",77,18,17
+"Marília",78,20,15
+"Marília",79,15,20
+"Marília",80,17,18
+"Marília",81,17,18
+"Marília",82,17,18
+"Marília",83,20,15
+"Marília",84,18,17
+"Marília",85,16,19
+"Marília",86,20,15
+"Marília",87,16,19
+"Marília",88,17,18
+"Marília",89,17,18
+"Marília",90,16,19
+"Marília",91,17,18
+"Marília",92,18,17
+"Marília",93,18,17
+"Marília",94,19,16
+"Marília",95,16,19
+"Marília",96,16,19
+"Marília",97,18,17
+"Marília",98,17,18
+"Marília",99,18,17
+"Marília",100,15,20
+"Rafaela/Marline",1,16,19
+"Rafaela/Marline",2,17,18
+"Rafaela/Marline",3,18,17
+"Rafaela/Marline",4,16,19
+"Rafaela/Marline",5,13,22
+"Rafaela/Marline",6,17,18
+"Rafaela/Marline",7,19,16
+"Rafaela/Marline",8,17,18
+"Rafaela/Marline",9,16,19
+"Rafaela/Marline",10,16,19
+"Rafaela/Marline",11,21,14
+"Rafaela/Marline",12,17,18
+"Rafaela/Marline",13,19,16
+"Rafaela/Marline",14,17,18
+"Rafaela/Marline",15,17,18
+"Rafaela/Marline",16,19,16
+"Rafaela/Marline",17,18,17
+"Rafaela/Marline",18,15,20
+"Rafaela/Marline",19,19,16
+"Rafaela/Marline",20,17,18
+"Rafaela/Marline",21,16,19
+"Rafaela/Marline",22,19,16
+"Rafaela/Marline",23,18,17
+"Rafaela/Marline",24,17,18
+"Rafaela/Marline",25,17,18
+"Rafaela/Marline",26,17,18
+"Rafaela/Marline",27,18,17
+"Rafaela/Marline",28,17,18
+"Rafaela/Marline",29,18,17
+"Rafaela/Marline",30,19,16
+"Rafaela/Marline",31,17,18
+"Rafaela/Marline",32,14,21
+"Rafaela/Marline",33,18,17
+"Rafaela/Marline",34,17,18
+"Rafaela/Marline",35,17,18
+"Rafaela/Marline",36,18,17
+"Rafaela/Marline",37,15,20
+"Rafaela/Marline",38,19,16
+"Rafaela/Marline",39,18,17
+"Rafaela/Marline",40,15,20
+"Rafaela/Marline",41,16,19
+"Rafaela/Marline",42,19,16
+"Rafaela/Marline",43,15,20
+"Rafaela/Marline",44,16,19
+"Rafaela/Marline",45,19,16
+"Rafaela/Marline",46,17,18
+"Rafaela/Marline",47,16,19
+"Rafaela/Marline",48,16,19
+"Rafaela/Marline",49,16,19
+"Rafaela/Marline",50,17,18
+"Rafaela/Marline",51,17,18
+"Rafaela/Marline",52,18,17
+"Rafaela/Marline",53,18,17
+"Rafaela/Marline",54,17,18
+"Rafaela/Marline",55,17,18
+"Rafaela/Marline",56,19,16
+"Rafaela/Marline",57,15,20
+"Rafaela/Marline",58,17,18
+"Rafaela/Marline",59,18,17
+"Rafaela/Marline",60,16,19
+"Rafaela/Marline",61,18,17
+"Rafaela/Marline",62,18,17
+"Rafaela/Marline",63,15,20
+"Rafaela/Marline",64,19,16
+"Rafaela/Marline",65,18,17
+"Rafaela/Marline",66,18,17
+"Rafaela/Marline",67,17,18
+"Rafaela/Marline",68,17,18
+"Rafaela/Marline",69,17,18
+"Rafaela/Marline",70,16,19
+"Rafaela/Marline",71,14,21
+"Rafaela/Marline",72,16,19
+"Rafaela/Marline",73,18,17
+"Rafaela/Marline",74,17,18
+"Rafaela/Marline",75,19,16
+"Rafaela/Marline",76,18,17
+"Rafaela/Marline",77,19,16
+"Rafaela/Marline",78,16,19
+"Rafaela/Marline",79,19,16
+"Rafaela/Marline",80,17,18
+"Rafaela/Marline",81,16,19
+"Rafaela/Marline",82,17,18
+"Rafaela/Marline",83,19,17
+"Rafaela/Marline",84,16,19
+"Rafaela/Marline",85,19,16
+"Rafaela/Marline",86,18,17
+"Rafaela/Marline",87,18,17
+"Rafaela/Marline",88,16,19
+"Rafaela/Marline",89,18,17
+"Rafaela/Marline",90,16,19
+"Rafaela/Marline",91,18,17
+"Rafaela/Marline",92,21,14
+"Rafaela/Marline",93,18,17
+"Rafaela/Marline",94,17,18
+"Rafaela/Marline",95,16,19
+"Rafaela/Marline",96,18,17
+"Rafaela/Marline",97,17,16
+"Rafaela/Marline",98,19,16
+"Rafaela/Marline",99,15,20
+"Rafaela/Marline",100,15,20
+"Seu Nome / Nome do Parceiro",1,19,16
+"Seu Nome / Nome do Parceiro",2,15,20
+"Seu Nome / Nome do Parceiro",3,18,17
+"Seu Nome / Nome do Parceiro",4,16,19
+"Seu Nome / Nome do Parceiro",5,18,17
+"Seu Nome / Nome do Parceiro",6,17,18
+"Seu Nome / Nome do Parceiro",7,19,16
+"Seu Nome / Nome do Parceiro",8,20,15
+"Seu Nome / Nome do Parceiro",9,18,17
+"Seu Nome / Nome do Parceiro",10,16,19
+"Seu Nome / Nome do Parceiro",11,15,20
+"Seu Nome / Nome do Parceiro",12,18,17
+"Seu Nome / Nome do Parceiro",13,19,16
+"Seu Nome / Nome do Parceiro",14,16,19
+"Seu Nome / Nome do Parceiro",15,19,16
+"Seu Nome / Nome do Parceiro",16,19,16
+"Seu Nome / Nome do Parceiro",17,21,14
+"Seu Nome / Nome do Parceiro",18,21,14
+"Seu Nome / Nome do Parceiro",19,17,18
+"Seu Nome / Nome do Parceiro",20,20,15
+"Seu Nome / Nome do Parceiro",21,17,18
+"Seu Nome / Nome do Parceiro",22,20,15
+"Seu Nome / Nome do Parceiro",23,16,19
+"Seu Nome / Nome do Parceiro",24,17,18
+"Seu Nome / Nome do Parceiro",25,17,18
+"Seu Nome / Nome do Parceiro",26,16,19
+"Seu Nome / Nome do Parceiro",27,15,20
+"Seu Nome / Nome do Parceiro",28,19,16
+"Seu Nome / Nome do Parceiro",29,19,16
+"Seu Nome / Nome do Parceiro",30,18,17
+"Seu Nome / Nome do Parceiro",31,18,17
+"Seu Nome / Nome do Parceiro",32,16,19
+"Seu Nome / Nome do Parceiro",33,19,16
+"Seu Nome / Nome do Parceiro",34,16,19
+"Seu Nome / Nome do Parceiro",35,16,19
+"Seu Nome / Nome do Parceiro",36,17,18
+"Seu Nome / Nome do Parceiro",37,15,20
+"Seu Nome / Nome do Parceiro",38,15,20
+"Seu Nome / Nome do Parceiro",39,18,17
+"Seu Nome / Nome do Parceiro",40,18,17
+"Seu Nome / Nome do Parceiro",41,15,20
+"Seu Nome / Nome do Parceiro",42,17,18
+"Seu Nome / Nome do Parceiro",43,17,18
+"Seu Nome / Nome do Parceiro",44,18,17
+"Seu Nome / Nome do Parceiro",45,19,16
+"Seu Nome / Nome do Parceiro",46,18,17
+"Seu Nome / Nome do Parceiro",47,17,18
+"Seu Nome / Nome do Parceiro",48,16,19
+"Seu Nome / Nome do Parceiro",49,19,16
+"Seu Nome / Nome do Parceiro",50,20,15
+"Seu Nome / Nome do Parceiro",51,16,19
+"Seu Nome / Nome do Parceiro",52,16,19
+"Seu Nome / Nome do Parceiro",53,18,17
+"Seu Nome / Nome do Parceiro",54,16,19
+"Seu Nome / Nome do Parceiro",55,18,17
+"Seu Nome / Nome do Parceiro",56,17,18
+"Seu Nome / Nome do Parceiro",57,20,15
+"Seu Nome / Nome do Parceiro",58,18,17
+"Seu Nome / Nome do Parceiro",59,16,19
+"Seu Nome / Nome do Parceiro",60,16,19
+"Seu Nome / Nome do Parceiro",61,18,17
+"Seu Nome / Nome do Parceiro",62,15,20
+"Seu Nome / Nome do Parceiro",63,20,15
+"Seu Nome / Nome do Parceiro",64,15,20
+"Seu Nome / Nome do Parceiro",65,19,16
+"Seu Nome / Nome do Parceiro",66,19,16
+"Seu Nome / Nome do Parceiro",67,19,16
+"Seu Nome / Nome do Parceiro",68,15,20
+"Seu Nome / Nome do Parceiro",69,15,20
+"Seu Nome / Nome do Parceiro",70,20,15
+"Seu Nome / Nome do Parceiro",71,15,20
+"Seu Nome / Nome do Parceiro",72,17,18
+"Seu Nome / Nome do Parceiro",73,16,19
+"Seu Nome / Nome do Parceiro",74,15,20
+"Seu Nome / Nome do Parceiro",75,17,18
+"Seu Nome / Nome do Parceiro",76,17,18
+"Seu Nome / Nome do Parceiro",77,19,16
+"Seu Nome / Nome do Parceiro",78,20,15
+"Seu Nome / Nome do Parceiro",79,16,19
+"Seu Nome / Nome do Parceiro",80,15,20
+"Seu Nome / Nome do Parceiro",81,16,19
+"Seu Nome / Nome do Parceiro",82,16,19
+"Seu Nome / Nome do Parceiro",83,15,20
+"Seu Nome / Nome do Parceiro",84,17,18
+"Seu Nome / Nome do Parceiro",85,17,18
+"Seu Nome / Nome do Parceiro",86,18,17
+"Seu Nome / Nome do Parceiro",87,15,20
+"Seu Nome / Nome do Parceiro",88,13,22
+"Seu Nome / Nome do Parceiro",89,18,17
+"Seu Nome / Nome do Parceiro",90,15,20
+"Seu Nome / Nome do Parceiro",91,18,17
+"Seu Nome / Nome do Parceiro",92,18,17
+"Seu Nome / Nome do Parceiro",93,17,18
+"Seu Nome / Nome do Parceiro",94,18,17
+"Seu Nome / Nome do Parceiro",95,18,17
+"Seu Nome / Nome do Parceiro",96,17,18
+"Seu Nome / Nome do Parceiro",97,16,19
+"Seu Nome / Nome do Parceiro",98,18,17
+"Seu Nome / Nome do Parceiro",99,17,18
+"Seu Nome / Nome do Parceiro",100,15,20
+"Derick/Ricardo",1,16,19
+"Derick/Ricardo",2,20,15
+"Derick/Ricardo",3,18,17
+"Derick/Ricardo",4,21,14
+"Derick/Ricardo",5,13,22
+"Derick/Ricardo",6,15,20
+"Derick/Ricardo",7,18,16
+"Derick/Ricardo",8,22,13
+"Derick/Ricardo",9,12,23
+"Derick/Ricardo",10,19,16
+"Derick/Ricardo",11,16,18
+"Derick/Ricardo",12,11,18
+"Derick/Ricardo",13,13,24
+"Derick/Ricardo",14,16,19
+"Derick/Ricardo",15,24,13
+"Derick/Ricardo",16,17,18
+"Derick/Ricardo",17,19,16
+"Derick/Ricardo",18,15,20
+"Derick/Ricardo",19,18,17
+"Derick/Ricardo",20,20,11
+"Derick/Ricardo",21,16,19
+"Derick/Ricardo",22,11,18
+"Derick/Ricardo",23,13,22
+"Derick/Ricardo",24,19,16
+"Derick/Ricardo",25,0,0
+"Derick/Ricardo",26,15,20
+"Derick/Ricardo",27,0,0
+"Derick/Ricardo",28,0,0
+"Derick/Ricardo",29,0,0
+"Derick/Ricardo",30,0,0
+"Derick/Ricardo",31,18,17
+"Derick/Ricardo",32,16,19
+"Derick/Ricardo",33,18,0
+"Derick/Ricardo",34,0,0
+"Derick/Ricardo",35,0,0
+"Derick/Ricardo",36,20,15
+"Derick/Ricardo",37,0,0
+"Derick/Ricardo",38,0,0
+"Derick/Ricardo",39,0,0
+"Derick/Ricardo",40,18,17
+"Derick/Ricardo",41,0,0
+"Derick/Ricardo",42,0,0
+"Derick/Ricardo",43,0,0
+"Derick/Ricardo",44,0,0
+"Derick/Ricardo",45,0,0
+"Derick/Ricardo",46,0,0
+"Derick/Ricardo",47,0,0
+"Derick/Ricardo",48,0,0
+"Derick/Ricardo",49,0,0
+"Derick/Ricardo",50,0,0
+"Derick/Ricardo",51,0,0
+"Derick/Ricardo",52,0,0
+"Derick/Ricardo",53,0,0
+"Derick/Ricardo",54,0,0
+"Derick/Ricardo",55,0,0
+"Derick/Ricardo",56,0,0
+"Derick/Ricardo",57,0,0
+"Derick/Ricardo",58,0,0
+"Derick/Ricardo",59,0,0
+"Derick/Ricardo",60,0,0
+"Derick/Ricardo",61,0,0
+"Derick/Ricardo",62,0,0
+"Derick/Ricardo",63,0,0
+"Derick/Ricardo",64,0,0
+"Derick/Ricardo",65,0,0
+"Derick/Ricardo",66,0,0
+"Derick/Ricardo",67,0,0
+"Derick/Ricardo",68,0,0
+"Derick/Ricardo",69,0,0
+"Derick/Ricardo",70,0,0
+"Derick/Ricardo",71,0,0
+"Derick/Ricardo",72,0,0
+"Derick/Ricardo",73,18,17
+"Derick/Ricardo",74,0,0
+"Derick/Ricardo",75,0,0
+"Derick/Ricardo",76,0,0
+"Derick/Ricardo",77,0,0
+"Derick/Ricardo",78,0,0
+"Derick/Ricardo",79,0,0
+"Derick/Ricardo",80,0,0
+"Derick/Ricardo",81,0,0
+"Derick/Ricardo",82,0,0
+"Derick/Ricardo",83,0,0
+"Derick/Ricardo",84,0,0
+"Derick/Ricardo",85,0,0
+"Derick/Ricardo",86,0,0
+"Derick/Ricardo",87,0,0
+"Derick/Ricardo",88,0,0
+"Derick/Ricardo",89,0,0
+"Derick/Ricardo",90,17,18
+"Derick/Ricardo",91,0,0
+"Derick/Ricardo",92,0,0
+"Derick/Ricardo",93,20,15
+"Derick/Ricardo",94,0,0
+"Derick/Ricardo",95,0,0
+"Derick/Ricardo",96,0,0
+"Derick/Ricardo",97,0,0
+"Derick/Ricardo",98,0,0
+"Derick/Ricardo",99,15,20
+"Derick/Ricardo",100,24,11
+"Rodrigo Delgado a57748 e Roberto Bonfim a60630",1,11,24
+"Rodrigo Delgado a57748 e Roberto Bonfim a60630",2,12,23
+"Rodrigo Delgado a57748 e Roberto Bonfim a60630",3,13,22
+"Rodrigo Delgado a57748 e Roberto Bonfim a60630",4,14,21
+"Rodrigo Delgado a57748 e Roberto Bonfim a60630",5,15,20
+"Rodrigo Delgado a57748 e Roberto Bonfim a60630",6,16,19
+"Rodrigo Delgado a57748 e Roberto Bonfim a60630",7,17,18
+"Rodrigo Delgado a57748 e Roberto Bonfim a60630",8,18,17
+"Rodrigo Delgado a57748 e Roberto Bonfim a60630",9,19,16
+"Rodrigo Delgado a57748 e Roberto Bonfim a60630",10,20,15
+"Rodrigo Delgado a57748 e Roberto Bonfim a60630",11,21,14
+"Rodrigo Delgado a57748 e Roberto Bonfim a60630",12,22,13
+"Rodrigo Delgado a57748 e Roberto Bonfim a60630",13,23,12
+"Rodrigo Delgado a57748 e Roberto Bonfim a60630",14,24,11
+"Rodrigo Delgado a57748 e Roberto Bonfim a60630",15,11,24
+"Rodrigo Delgado a57748 e Roberto Bonfim a60630",16,12,23
+"Rodrigo Delgado a57748 e Roberto Bonfim a60630",17,13,22
+"Rodrigo Delgado a57748 e Roberto Bonfim a60630",18,14,21
+"Rodrigo Delgado a57748 e Roberto Bonfim a60630",19,15,20
+"Rodrigo Delgado a57748 e Roberto Bonfim a60630",20,16,19
+"Rodrigo Delgado a57748 e Roberto Bonfim a60630",21,17,18
+"Rodrigo Delgado a57748 e Roberto Bonfim a60630",22,18,17
+"Rodrigo Delgado a57748 e Roberto Bonfim a60630",23,19,16
+"Rodrigo Delgado a57748 e Roberto Bonfim a60630",24,20,15
+"Rodrigo Delgado a57748 e Roberto Bonfim a60630",25,21,14
+"Rodrigo Delgado a57748 e Roberto Bonfim a60630",26,22,13
+"Rodrigo Delgado a57748 e Roberto Bonfim a60630",27,23,12
+"Rodrigo Delgado a57748 e Roberto Bonfim a60630",28,24,11
+"Rodrigo Delgado a57748 e Roberto Bonfim a60630",29,11,24
+"Rodrigo Delgado a57748 e Roberto Bonfim a60630",30,12,23
+"Rodrigo Delgado a57748 e Roberto Bonfim a60630",31,13,22
+"Rodrigo Delgado a57748 e Roberto Bonfim a60630",32,14,21
+"Rodrigo Delgado a57748 e Roberto Bonfim a60630",33,15,20
+"Rodrigo Delgado a57748 e Roberto Bonfim a60630",34,16,19
+"Rodrigo Delgado a57748 e Roberto Bonfim a60630",35,17,18
+"Rodrigo Delgado a57748 e Roberto Bonfim a60630",36,18,17
+"Rodrigo Delgado a57748 e Roberto Bonfim a60630",37,19,16
+"Rodrigo Delgado a57748 e Roberto Bonfim a60630",38,20,15
+"Rodrigo Delgado a57748 e Roberto Bonfim a60630",39,21,14
+"Rodrigo Delgado a57748 e Roberto Bonfim a60630",40,22,13
+"Rodrigo Delgado a57748 e Roberto Bonfim a60630",41,23,12
+"Rodrigo Delgado a57748 e Roberto Bonfim a60630",42,24,11
+"Rodrigo Delgado a57748 e Roberto Bonfim a60630",43,11,24
+"Rodrigo Delgado a57748 e Roberto Bonfim a60630",44,12,23
+"Rodrigo Delgado a57748 e Roberto Bonfim a60630",45,13,22
+"Rodrigo Delgado a57748 e Roberto Bonfim a60630",46,14,21
+"Rodrigo Delgado a57748 e Roberto Bonfim a60630",47,15,20
+"Rodrigo Delgado a57748 e Roberto Bonfim a60630",48,16,19
+"Rodrigo Delgado a57748 e Roberto Bonfim a60630",49,17,18
+"Rodrigo Delgado a57748 e Roberto Bonfim a60630",50,18,17
+"Rodrigo Delgado a57748 e Roberto Bonfim a60630",51,19,16
+"Rodrigo Delgado a57748 e Roberto Bonfim a60630",52,20,15
+"Rodrigo Delgado a57748 e Roberto Bonfim a60630",53,21,14
+"Rodrigo Delgado a57748 e Roberto Bonfim a60630",54,22,13
+"Rodrigo Delgado a57748 e Roberto Bonfim a60630",55,23,12
+"Rodrigo Delgado a57748 e Roberto Bonfim a60630",56,24,11
+"Rodrigo Delgado a57748 e Roberto Bonfim a60630",57,11,24
+"Rodrigo Delgado a57748 e Roberto Bonfim a60630",58,12,23
+"Rodrigo Delgado a57748 e Roberto Bonfim a60630",59,13,22
+"Rodrigo Delgado a57748 e Roberto Bonfim a60630",60,14,21
+"Rodrigo Delgado a57748 e Roberto Bonfim a60630",61,15,20
+"Rodrigo Delgado a57748 e Roberto Bonfim a60630",62,16,19
+"Rodrigo Delgado a57748 e Roberto Bonfim a60630",63,17,18
+"Rodrigo Delgado a57748 e Roberto Bonfim a60630",64,18,17
+"Rodrigo Delgado a57748 e Roberto Bonfim a60630",65,19,16
+"Rodrigo Delgado a57748 e Roberto Bonfim a60630",66,20,15
+"Rodrigo Delgado a57748 e Roberto Bonfim a60630",67,21,14
+"Rodrigo Delgado a57748 e Roberto Bonfim a60630",68,22,13
+"Rodrigo Delgado a57748 e Roberto Bonfim a60630",69,23,12
+"Rodrigo Delgado a57748 e Roberto Bonfim a60630",70,24,11
+"Rodrigo Delgado a57748 e Roberto Bonfim a60630",71,11,24
+"Rodrigo Delgado a57748 e Roberto Bonfim a60630",72,12,23
+"Rodrigo Delgado a57748 e Roberto Bonfim a60630",73,13,22
+"Rodrigo Delgado a57748 e Roberto Bonfim a60630",74,14,21
+"Rodrigo Delgado a57748 e Roberto Bonfim a60630",75,15,20
+"Rodrigo Delgado a57748 e Roberto Bonfim a60630",76,16,19
+"Rodrigo Delgado a57748 e Roberto Bonfim a60630",77,17,18
+"Rodrigo Delgado a57748 e Roberto Bonfim a60630",78,18,17
+"Rodrigo Delgado a57748 e Roberto Bonfim a60630",79,19,16
+"Rodrigo Delgado a57748 e Roberto Bonfim a60630",80,20,15
+"Rodrigo Delgado a57748 e Roberto Bonfim a60630",81,21,14
+"Rodrigo Delgado a57748 e Roberto Bonfim a60630",82,22,13
+"Rodrigo Delgado a57748 e Roberto Bonfim a60630",83,23,12
+"Rodrigo Delgado a57748 e Roberto Bonfim a60630",84,24,11
+"Rodrigo Delgado a57748 e Roberto Bonfim a60630",85,11,24
+"Rodrigo Delgado a57748 e Roberto Bonfim a60630",86,12,23
+"Rodrigo Delgado a57748 e Roberto Bonfim a60630",87,13,22
+"Rodrigo Delgado a57748 e Roberto Bonfim a60630",88,14,21
+"Rodrigo Delgado a57748 e Roberto Bonfim a60630",89,15,20
+"Rodrigo Delgado a57748 e Roberto Bonfim a60630",90,16,19
+"Rodrigo Delgado a57748 e Roberto Bonfim a60630",91,17,18
+"Rodrigo Delgado a57748 e Roberto Bonfim a60630",92,18,17
+"Rodrigo Delgado a57748 e Roberto Bonfim a60630",93,19,16
+"Rodrigo Delgado a57748 e Roberto Bonfim a60630",94,20,15
+"Rodrigo Delgado a57748 e Roberto Bonfim a60630",95,21,14
+"Rodrigo Delgado a57748 e Roberto Bonfim a60630",96,22,13
+"Rodrigo Delgado a57748 e Roberto Bonfim a60630",97,23,12
+"Rodrigo Delgado a57748 e Roberto Bonfim a60630",98,24,11
+"Rodrigo Delgado a57748 e Roberto Bonfim a60630",99,11,24
+"Rodrigo Delgado a57748 e Roberto Bonfim a60630",100,12,23
+"Ruben",1,16,19
+"Ruben",2,19,16
+"Ruben",3,16,19
+"Ruben",4,15,20
+"Ruben",5,16,19
+"Ruben",6,19,16
+"Ruben",7,18,17
+"Ruben",8,16,19
+"Ruben",9,17,18
+"Ruben",10,18,17
+"Ruben",11,15,20
+"Ruben",12,13,22
+"Ruben",13,15,20
+"Ruben",14,18,17
+"Ruben",15,18,17
+"Ruben",16,18,17
+"Ruben",17,17,18
+"Ruben",18,17,18
+"Ruben",19,15,20
+"Ruben",20,21,14
+"Ruben",21,17,18
+"Ruben",22,19,16
+"Ruben",23,19,16
+"Ruben",24,17,18
+"Ruben",25,17,18
+"Ruben",26,17,18
+"Ruben",27,14,21
+"Ruben",28,17,18
+"Ruben",29,18,17
+"Ruben",30,17,18
+"Ruben",31,18,17
+"Ruben",32,15,20
+"Ruben",33,18,17
+"Ruben",34,17,18
+"Ruben",35,20,15
+"Ruben",36,18,17
+"Ruben",37,17,18
+"Ruben",38,16,19
+"Ruben",39,19,16
+"Ruben",40,17,18
+"Ruben",41,18,17
+"Ruben",42,16,19
+"Ruben",43,17,18
+"Ruben",44,17,18
+"Ruben",45,17,18
+"Ruben",46,20,15
+"Ruben",47,17,18
+"Ruben",48,20,15
+"Ruben",49,20,15
+"Ruben",50,17,18
+"Ruben",51,18,17
+"Ruben",52,16,19
+"Ruben",53,18,17
+"Ruben",54,14,21
+"Ruben",55,16,19
+"Ruben",56,18,17
+"Ruben",57,18,17
+"Ruben",58,20,15
+"Ruben",59,17,18
+"Ruben",60,19,16
+"Ruben",61,18,17
+"Ruben",62,19,16
+"Ruben",63,18,17
+"Ruben",64,17,18
+"Ruben",65,17,18
+"Ruben",66,19,16
+"Ruben",67,18,17
+"Ruben",68,19,16
+"Ruben",69,18,17
+"Ruben",70,19,16
+"Ruben",71,19,16
+"Ruben",72,19,16
+"Ruben",73,18,17
+"Ruben",74,18,17
+"Ruben",75,17,18
+"Ruben",76,18,17
+"Ruben",77,17,18
+"Ruben",78,18,17
+"Ruben",79,18,17
+"Ruben",80,17,18
+"Ruben",81,18,17
+"Ruben",82,16,19
+"Ruben",83,18,17
+"Ruben",84,20,15
+"Ruben",85,17,18
+"Ruben",86,20,15
+"Ruben",87,19,16
+"Ruben",88,17,18
+"Ruben",89,17,18
+"Ruben",90,17,18
+"Ruben",91,17,18
+"Ruben",92,18,17
+"Ruben",93,21,14
+"Ruben",94,20,15
+"Ruben",95,19,16
+"Ruben",96,15,20
+"Ruben",97,20,15
+"Ruben",98,20,15
+"Ruben",99,17,18
+"Ruben",100,19,16
+"Sandra",1,17,18
+"Sandra",2,18,17
+"Sandra",3,20,15
+"Sandra",4,19,16
+"Sandra",5,18,17
+"Sandra",6,16,19
+"Sandra",7,17,18
+"Sandra",8,18,17
+"Sandra",9,16,19
+"Sandra",10,18,17
+"Sandra",11,19,16
+"Sandra",12,17,18
+"Sandra",13,17,18
+"Sandra",14,17,18
+"Sandra",15,14,21
+"Sandra",16,15,20
+"Sandra",17,19,16
+"Sandra",18,18,17
+"Sandra",19,18,17
+"Sandra",20,15,20
+"Sandra",21,20,15
+"Sandra",22,19,16
+"Sandra",23,17,18
+"Sandra",24,18,17
+"Sandra",25,15,20
+"Sandra",26,17,18
+"Sandra",27,16,19
+"Sandra",28,13,22
+"Sandra",29,17,18
+"Sandra",30,17,18
+"Sandra",31,17,18
+"Sandra",32,17,18
+"Sandra",33,19,16
+"Sandra",34,16,19
+"Sandra",35,17,18
+"Sandra",36,16,19
+"Sandra",37,17,18
+"Sandra",38,17,18
+"Sandra",39,17,18
+"Sandra",40,19,16
+"Sandra",41,15,20
+"Sandra",42,19,16
+"Sandra",43,14,21
+"Sandra",44,17,18
+"Sandra",45,21,14
+"Sandra",46,17,18
+"Sandra",47,17,18
+"Sandra",48,16,19
+"Sandra",49,17,18
+"Sandra",50,19,16
+"Sandra",51,16,19
+"Sandra",52,16,19
+"Sandra",53,18,17
+"Sandra",54,16,19
+"Sandra",55,18,17
+"Sandra",56,17,18
+"Sandra",57,18,17
+"Sandra",58,18,17
+"Sandra",59,18,17
+"Sandra",60,19,16
+"Sandra",61,18,17
+"Sandra",62,18,17
+"Sandra",63,16,19
+"Sandra",64,19,16
+"Sandra",65,18,17
+"Sandra",66,18,17
+"Sandra",67,18,17
+"Sandra",68,17,18
+"Sandra",69,18,17
+"Sandra",70,18,17
+"Sandra",71,17,18
+"Sandra",72,16,19
+"Sandra",73,17,18
+"Sandra",74,16,19
+"Sandra",75,19,16
+"Sandra",76,19,16
+"Sandra",77,20,15
+"Sandra",78,16,19
+"Sandra",79,17,18
+"Sandra",80,17,18
+"Sandra",81,16,19
+"Sandra",82,18,17
+"Sandra",83,16,19
+"Sandra",84,18,17
+"Sandra",85,15,20
+"Sandra",86,19,16
+"Sandra",87,18,17
+"Sandra",88,19,16
+"Sandra",89,13,22
+"Sandra",90,17,18
+"Sandra",91,15,20
+"Sandra",92,20,15
+"Sandra",93,19,16
+"Sandra",94,18,17
+"Sandra",95,17,18
+"Sandra",96,16,19
+"Sandra",97,17,18
+"Sandra",98,18,17
+"Sandra",99,18,17
+"Sandra",100,15,20
+"Davide/Sebastiao",1,18,17
+"Davide/Sebastiao",2,20,15
+"Davide/Sebastiao",3,18,17
+"Davide/Sebastiao",4,15,20
+"Davide/Sebastiao",5,17,18
+"Davide/Sebastiao",6,18,17
+"Davide/Sebastiao",7,17,18
+"Davide/Sebastiao",8,16,19
+"Davide/Sebastiao",9,17,18
+"Davide/Sebastiao",10,17,18
+"Davide/Sebastiao",11,17,18
+"Davide/Sebastiao",12,16,19
+"Davide/Sebastiao",13,15,20
+"Davide/Sebastiao",14,15,20
+"Davide/Sebastiao",15,18,17
+"Davide/Sebastiao",16,19,16
+"Davide/Sebastiao",17,18,17
+"Davide/Sebastiao",18,19,16
+"Davide/Sebastiao",19,17,18
+"Davide/Sebastiao",20,20,15
+"Davide/Sebastiao",21,20,15
+"Davide/Sebastiao",22,17,18
+"Davide/Sebastiao",23,18,17
+"Davide/Sebastiao",24,16,19
+"Davide/Sebastiao",25,15,20
+"Davide/Sebastiao",26,15,20
+"Davide/Sebastiao",27,20,15
+"Davide/Sebastiao",28,16,19
+"Davide/Sebastiao",29,19,16
+"Davide/Sebastiao",30,17,18
+"Davide/Sebastiao",31,17,18
+"Davide/Sebastiao",32,19,16
+"Davide/Sebastiao",33,19,16
+"Davide/Sebastiao",34,17,18
+"Davide/Sebastiao",35,16,19
+"Davide/Sebastiao",36,18,17
+"Davide/Sebastiao",37,17,18
+"Davide/Sebastiao",38,16,19
+"Davide/Sebastiao",39,19,16
+"Davide/Sebastiao",40,17,18
+"Davide/Sebastiao",41,18,17
+"Davide/Sebastiao",42,15,20
+"Davide/Sebastiao",43,17,18
+"Davide/Sebastiao",44,15,20
+"Davide/Sebastiao",45,17,18
+"Davide/Sebastiao",46,18,17
+"Davide/Sebastiao",47,19,16
+"Davide/Sebastiao",48,17,18
+"Davide/Sebastiao",49,16,19
+"Davide/Sebastiao",50,19,16
+"Davide/Sebastiao",51,17,18
+"Davide/Sebastiao",52,17,18
+"Davide/Sebastiao",53,18,17
+"Davide/Sebastiao",54,16,19
+"Davide/Sebastiao",55,20,15
+"Davide/Sebastiao",56,20,15
+"Davide/Sebastiao",57,17,18
+"Davide/Sebastiao",58,16,19
+"Davide/Sebastiao",59,20,15
+"Davide/Sebastiao",60,18,17
+"Davide/Sebastiao",61,17,18
+"Davide/Sebastiao",62,14,21
+"Davide/Sebastiao",63,16,19
+"Davide/Sebastiao",64,19,16
+"Davide/Sebastiao",65,17,18
+"Davide/Sebastiao",66,19,16
+"Davide/Sebastiao",67,18,17
+"Davide/Sebastiao",68,20,15
+"Davide/Sebastiao",69,16,19
+"Davide/Sebastiao",70,15,20
+"Davide/Sebastiao",71,17,18
+"Davide/Sebastiao",72,18,17
+"Davide/Sebastiao",73,18,17
+"Davide/Sebastiao",74,16,19
+"Davide/Sebastiao",75,13,22
+"Davide/Sebastiao",76,20,15
+"Davide/Sebastiao",77,16,19
+"Davide/Sebastiao",78,18,17
+"Davide/Sebastiao",79,18,17
+"Davide/Sebastiao",80,18,17
+"Davide/Sebastiao",81,17,18
+"Davide/Sebastiao",82,18,17
+"Davide/Sebastiao",83,16,19
+"Davide/Sebastiao",84,16,19
+"Davide/Sebastiao",85,16,19
+"Davide/Sebastiao",86,16,19
+"Davide/Sebastiao",87,19,16
+"Davide/Sebastiao",88,17,18
+"Davide/Sebastiao",89,16,19
+"Davide/Sebastiao",90,16,19
+"Davide/Sebastiao",91,19,16
+"Davide/Sebastiao",92,18,17
+"Davide/Sebastiao",93,16,19
+"Davide/Sebastiao",94,19,16
+"Davide/Sebastiao",95,18,17
+"Davide/Sebastiao",96,17,18
+"Davide/Sebastiao",97,15,20
+"Davide/Sebastiao",98,17,18
+"Davide/Sebastiao",99,18,17
+"Davide/Sebastiao",100,19,16
+"Tamara",1,15,20
+"Tamara",2,20,15
+"Tamara",3,18,17
+"Tamara",4,20,15
+"Tamara",5,18,17
+"Tamara",6,18,17
+"Tamara",7,16,19
+"Tamara",8,18,17
+"Tamara",9,16,19
+"Tamara",10,16,19
+"Tamara",11,21,14
+"Tamara",12,18,17
+"Tamara",13,19,16
+"Tamara",14,18,17
+"Tamara",15,17,18
+"Tamara",16,16,19
+"Tamara",17,21,14
+"Tamara",18,17,18
+"Tamara",19,15,20
+"Tamara",20,16,19
+"Tamara",21,17,18
+"Tamara",22,17,18
+"Tamara",23,17,18
+"Tamara",24,17,18
+"Tamara",25,18,17
+"Tamara",26,19,16
+"Tamara",27,15,20
+"Tamara",28,16,19
+"Tamara",29,17,18
+"Tamara",30,15,20
+"Tamara",31,16,19
+"Tamara",32,18,17
+"Tamara",33,19,16
+"Tamara",34,18,17
+"Tamara",35,16,19
+"Tamara",36,18,17
+"Tamara",37,18,17
+"Tamara",38,16,19
+"Tamara",39,17,18
+"Tamara",40,16,19
+"Tamara",41,19,16
+"Tamara",42,19,16
+"Tamara",43,16,19
+"Tamara",44,17,18
+"Tamara",45,18,17
+"Tamara",46,15,20
+"Tamara",47,16,19
+"Tamara",48,19,16
+"Tamara",49,18,17
+"Tamara",50,19,16
+"Tamara",51,18,17
+"Tamara",52,19,16
+"Tamara",53,17,18
+"Tamara",54,16,19
+"Tamara",55,17,18
+"Tamara",56,20,15
+"Tamara",57,19,16
+"Tamara",58,19,16
+"Tamara",59,15,20
+"Tamara",60,19,16
+"Tamara",61,19,16
+"Tamara",62,20,15
+"Tamara",63,17,18
+"Tamara",64,17,18
+"Tamara",65,18,17
+"Tamara",66,18,17
+"Tamara",67,18,17
+"Tamara",68,19,16
+"Tamara",69,18,17
+"Tamara",70,18,17
+"Tamara",71,20,15
+"Tamara",72,18,17
+"Tamara",73,17,18
+"Tamara",74,19,16
+"Tamara",75,19,16
+"Tamara",76,18,17
+"Tamara",77,18,17
+"Tamara",78,20,15
+"Tamara",79,15,20
+"Tamara",80,17,18
+"Tamara",81,17,18
+"Tamara",82,17,18
+"Tamara",83,20,15
+"Tamara",84,18,17
+"Tamara",85,16,19
+"Tamara",86,20,15
+"Tamara",87,16,19
+"Tamara",88,17,18
+"Tamara",89,17,18
+"Tamara",90,16,19
+"Tamara",91,17,18
+"Tamara",92,18,17
+"Tamara",93,18,17
+"Tamara",94,19,16
+"Tamara",95,16,19
+"Tamara",96,16,19
+"Tamara",97,18,17
+"Tamara",98,17,18
+"Tamara",99,18,17
+"Tamara",100,15,20
+"Vandrio & Josienne",1,17,18
+"Vandrio & Josienne",2,18,17
+"Vandrio & Josienne",3,20,15
+"Vandrio & Josienne",4,14,21
+"Vandrio & Josienne",5,16,19
+"Vandrio & Josienne",6,19,16
+"Vandrio & Josienne",7,17,18
+"Vandrio & Josienne",8,17,18
+"Vandrio & Josienne",9,17,18
+"Vandrio & Josienne",10,20,15
+"Vandrio & Josienne",11,15,20
+"Vandrio & Josienne",12,19,16
+"Vandrio & Josienne",13,16,19
+"Vandrio & Josienne",14,16,19
+"Vandrio & Josienne",15,19,16
+"Vandrio & Josienne",16,16,19
+"Vandrio & Josienne",17,17,18
+"Vandrio & Josienne",18,17,18
+"Vandrio & Josienne",19,18,17
+"Vandrio & Josienne",20,15,20
+"Vandrio & Josienne",21,17,18
+"Vandrio & Josienne",22,16,19
+"Vandrio & Josienne",23,17,18
+"Vandrio & Josienne",24,17,18
+"Vandrio & Josienne",25,17,18
+"Vandrio & Josienne",26,17,18
+"Vandrio & Josienne",27,18,17
+"Vandrio & Josienne",28,17,18
+"Vandrio & Josienne",29,15,20
+"Vandrio & Josienne",30,18,17
+"Vandrio & Josienne",31,17,18
+"Vandrio & Josienne",32,19,16
+"Vandrio & Josienne",33,21,14
+"Vandrio & Josienne",34,16,19
+"Vandrio & Josienne",35,17,18
+"Vandrio & Josienne",36,17,18
+"Vandrio & Josienne",37,18,17
+"Vandrio & Josienne",38,18,17
+"Vandrio & Josienne",39,19,16
+"Vandrio & Josienne",40,18,17
+"Vandrio & Josienne",41,17,18
+"Vandrio & Josienne",42,17,18
+"Vandrio & Josienne",43,16,19
+"Vandrio & Josienne",44,16,19
+"Vandrio & Josienne",45,18,17
+"Vandrio & Josienne",46,18,17
+"Vandrio & Josienne",47,20,15
+"Vandrio & Josienne",48,19,16
+"Vandrio & Josienne",49,17,18
+"Vandrio & Josienne",50,19,16
+"Vandrio & Josienne",51,17,18
+"Vandrio & Josienne",52,17,18
+"Vandrio & Josienne",53,14,21
+"Vandrio & Josienne",54,17,18
+"Vandrio & Josienne",55,16,19
+"Vandrio & Josienne",56,19,16
+"Vandrio & Josienne",57,21,14
+"Vandrio & Josienne",58,20,15
+"Vandrio & Josienne",59,16,19
+"Vandrio & Josienne",60,19,16
+"Vandrio & Josienne",61,18,17
+"Vandrio & Josienne",62,16,19
+"Vandrio & Josienne",63,16,19
+"Vandrio & Josienne",64,19,16
+"Vandrio & Josienne",65,16,19
+"Vandrio & Josienne",66,17,18
+"Vandrio & Josienne",67,15,20
+"Vandrio & Josienne",68,18,17
+"Vandrio & Josienne",69,18,17
+"Vandrio & Josienne",70,20,15
+"Vandrio & Josienne",71,19,16
+"Vandrio & Josienne",72,16,19
+"Vandrio & Josienne",73,17,18
+"Vandrio & Josienne",74,17,18
+"Vandrio & Josienne",75,14,21
+"Vandrio & Josienne",76,16,19
+"Vandrio & Josienne",77,16,19
+"Vandrio & Josienne",78,19,16
+"Vandrio & Josienne",79,16,19
+"Vandrio & Josienne",80,17,18
+"Vandrio & Josienne",81,17,18
+"Vandrio & Josienne",82,17,18
+"Vandrio & Josienne",83,17,18
+"Vandrio & Josienne",84,21,14
+"Vandrio & Josienne",85,18,17
+"Vandrio & Josienne",86,18,17
+"Vandrio & Josienne",87,16,19
+"Vandrio & Josienne",88,18,17
+"Vandrio & Josienne",89,18,17
+"Vandrio & Josienne",90,16,19
+"Vandrio & Josienne",91,19,16
+"Vandrio & Josienne",92,17,18
+"Vandrio & Josienne",93,19,16
+"Vandrio & Josienne",94,16,19
+"Vandrio & Josienne",95,18,17
+"Vandrio & Josienne",96,15,20
+"Vandrio & Josienne",97,15,20
+"Vandrio & Josienne",98,20,15
+"Vandrio & Josienne",99,18,17
+"Vandrio & Josienne",100,20,15
+"Viviane/Melany",1,18,17
+"Viviane/Melany",2,18,17
+"Viviane/Melany",3,21,14
+"Viviane/Melany",4,15,20
+"Viviane/Melany",5,18,17
+"Viviane/Melany",6,16,19
+"Viviane/Melany",7,22,13
+"Viviane/Melany",8,17,18
+"Viviane/Melany",9,17,18
+"Viviane/Melany",10,20,15
+"Viviane/Melany",11,23,12
+"Viviane/Melany",12,21,14
+"Viviane/Melany",13,15,20
+"Viviane/Melany",14,19,16
+"Viviane/Melany",15,16,19
+"Viviane/Melany",16,21,14
+"Viviane/Melany",17,13,22
+"Viviane/Melany",18,18,17
+"Viviane/Melany",19,11,24
+"Viviane/Melany",20,22,13
+"Viviane/Melany",21,16,19
+"Viviane/Melany",22,21,14
+"Viviane/Melany",23,21,14
+"Viviane/Melany",24,13,22
+"Viviane/Melany",25,25,10
+"Viviane/Melany",26,16,19
+"Viviane/Melany",27,18,17
+"Viviane/Melany",28,17,18
+"Viviane/Melany",29,18,17
+"Viviane/Melany",30,19,16
+"Viviane/Melany",31,21,14
+"Viviane/Melany",32,19,16
+"Viviane/Melany",33,18,17
+"Viviane/Melany",34,13,22
+"Viviane/Melany",35,8,27
+"Viviane/Melany",36,23,12
+"Viviane/Melany",37,21,14
+"Viviane/Melany",38,22,13
+"Viviane/Melany",39,23,12
+"Viviane/Melany",40,18,17
+"Viviane/Melany",41,18,17
+"Viviane/Melany",42,16,19
+"Viviane/Melany",43,15,20
+"Viviane/Melany",44,17,18
+"Viviane/Melany",45,17,18
+"Viviane/Melany",46,19,16
+"Viviane/Melany",47,18,17
+"Viviane/Melany",48,19,16
+"Viviane/Melany",49,15,20
+"Viviane/Melany",50,13,22
+"Viviane/Melany",51,11,24
+"Viviane/Melany",52,23,12
+"Viviane/Melany",53,18,17
+"Viviane/Melany",54,16,19
+"Viviane/Melany",55,16,19
+"Viviane/Melany",56,15,20
+"Viviane/Melany",57,12,23
+"Viviane/Melany",58,14,21
+"Viviane/Melany",59,14,21
+"Viviane/Melany",60,23,12
+"Viviane/Melany",61,17,18
+"Viviane/Melany",62,19,16
+"Viviane/Melany",63,15,20
+"Viviane/Melany",64,11,24
+"Viviane/Melany",65,18,17
+"Viviane/Melany",66,16,19
+"Viviane/Melany",67,21,14
+"Viviane/Melany",68,12,23
+"Viviane/Melany",69,16,19
+"Viviane/Melany",70,18,17
+"Viviane/Melany",71,16,19
+"Viviane/Melany",72,22,13
+"Viviane/Melany",73,22,13
+"Viviane/Melany",74,15,20
+"Viviane/Melany",75,14,21
+"Viviane/Melany",76,14,21
+"Viviane/Melany",77,14,21
+"Viviane/Melany",78,22,13
+"Viviane/Melany",79,21,14
+"Viviane/Melany",80,19,16
+"Viviane/Melany",81,15,20
+"Viviane/Melany",82,21,14
+"Viviane/Melany",83,19,16
+"Viviane/Melany",84,20,15
+"Viviane/Melany",85,15,20
+"Viviane/Melany",86,21,14
+"Viviane/Melany",87,13,22
+"Viviane/Melany",88,17,18
+"Viviane/Melany",89,21,14
+"Viviane/Melany",90,23,12
+"Viviane/Melany",91,14,21
+"Viviane/Melany",92,12,23
+"Viviane/Melany",93,22,13
+"Viviane/Melany",94,19,16
+"Viviane/Melany",95,14,21
+"Viviane/Melany",96,11,24
+"Viviane/Melany",97,10,25
+"Viviane/Melany",98,25,10
+"Viviane/Melany",99,19,16
+"Viviane/Melany",100,14,21
+"Waldik da Cruz, Danilson Fortes",1,15,20
+"Waldik da Cruz, Danilson Fortes",2,20,15
+"Waldik da Cruz, Danilson Fortes",3,18,17
+"Waldik da Cruz, Danilson Fortes",4,20,15
+"Waldik da Cruz, Danilson Fortes",5,18,17
+"Waldik da Cruz, Danilson Fortes",6,18,17
+"Waldik da Cruz, Danilson Fortes",7,16,19
+"Waldik da Cruz, Danilson Fortes",8,18,17
+"Waldik da Cruz, Danilson Fortes",9,16,19
+"Waldik da Cruz, Danilson Fortes",10,16,19
+"Waldik da Cruz, Danilson Fortes",11,21,14
+"Waldik da Cruz, Danilson Fortes",12,18,17
+"Waldik da Cruz, Danilson Fortes",13,19,16
+"Waldik da Cruz, Danilson Fortes",14,18,17
+"Waldik da Cruz, Danilson Fortes",15,17,18
+"Waldik da Cruz, Danilson Fortes",16,16,19
+"Waldik da Cruz, Danilson Fortes",17,21,14
+"Waldik da Cruz, Danilson Fortes",18,17,18
+"Waldik da Cruz, Danilson Fortes",19,15,20
+"Waldik da Cruz, Danilson Fortes",20,16,19
+"Waldik da Cruz, Danilson Fortes",21,17,18
+"Waldik da Cruz, Danilson Fortes",22,17,18
+"Waldik da Cruz, Danilson Fortes",23,17,18
+"Waldik da Cruz, Danilson Fortes",24,17,18
+"Waldik da Cruz, Danilson Fortes",25,18,17
+"Waldik da Cruz, Danilson Fortes",26,19,16
+"Waldik da Cruz, Danilson Fortes",27,15,20
+"Waldik da Cruz, Danilson Fortes",28,16,19
+"Waldik da Cruz, Danilson Fortes",29,17,18
+"Waldik da Cruz, Danilson Fortes",30,15,20
+"Waldik da Cruz, Danilson Fortes",31,16,19
+"Waldik da Cruz, Danilson Fortes",32,18,17
+"Waldik da Cruz, Danilson Fortes",33,19,16
+"Waldik da Cruz, Danilson Fortes",34,18,17
+"Waldik da Cruz, Danilson Fortes",35,16,19
+"Waldik da Cruz, Danilson Fortes",36,18,17
+"Waldik da Cruz, Danilson Fortes",37,18,17
+"Waldik da Cruz, Danilson Fortes",38,16,19
+"Waldik da Cruz, Danilson Fortes",39,17,18
+"Waldik da Cruz, Danilson Fortes",40,16,19
+"Waldik da Cruz, Danilson Fortes",41,19,16
+"Waldik da Cruz, Danilson Fortes",42,19,16
+"Waldik da Cruz, Danilson Fortes",43,16,19
+"Waldik da Cruz, Danilson Fortes",44,17,18
+"Waldik da Cruz, Danilson Fortes",45,18,17
+"Waldik da Cruz, Danilson Fortes",46,15,20
+"Waldik da Cruz, Danilson Fortes",47,16,19
+"Waldik da Cruz, Danilson Fortes",48,19,16
+"Waldik da Cruz, Danilson Fortes",49,18,17
+"Waldik da Cruz, Danilson Fortes",50,19,16
+"Waldik da Cruz, Danilson Fortes",51,18,17
+"Waldik da Cruz, Danilson Fortes",52,19,16
+"Waldik da Cruz, Danilson Fortes",53,17,18
+"Waldik da Cruz, Danilson Fortes",54,16,19
+"Waldik da Cruz, Danilson Fortes",55,17,18
+"Waldik da Cruz, Danilson Fortes",56,20,15
+"Waldik da Cruz, Danilson Fortes",57,19,16
+"Waldik da Cruz, Danilson Fortes",58,19,16
+"Waldik da Cruz, Danilson Fortes",59,15,20
+"Waldik da Cruz, Danilson Fortes",60,19,16
+"Waldik da Cruz, Danilson Fortes",61,19,16
+"Waldik da Cruz, Danilson Fortes",62,20,15
+"Waldik da Cruz, Danilson Fortes",63,17,18
+"Waldik da Cruz, Danilson Fortes",64,17,18
+"Waldik da Cruz, Danilson Fortes",65,18,17
+"Waldik da Cruz, Danilson Fortes",66,18,17
+"Waldik da Cruz, Danilson Fortes",67,18,17
+"Waldik da Cruz, Danilson Fortes",68,19,16
+"Waldik da Cruz, Danilson Fortes",69,18,17
+"Waldik da Cruz, Danilson Fortes",70,18,17
+"Waldik da Cruz, Danilson Fortes",71,20,15
+"Waldik da Cruz, Danilson Fortes",72,18,17
+"Waldik da Cruz, Danilson Fortes",73,17,18
+"Waldik da Cruz, Danilson Fortes",74,19,16
+"Waldik da Cruz, Danilson Fortes",75,19,16
+"Waldik da Cruz, Danilson Fortes",76,18,17
+"Waldik da Cruz, Danilson Fortes",77,18,17
+"Waldik da Cruz, Danilson Fortes",78,20,15
+"Waldik da Cruz, Danilson Fortes",79,15,20
+"Waldik da Cruz, Danilson Fortes",80,17,18
+"Waldik da Cruz, Danilson Fortes",81,17,18
+"Waldik da Cruz, Danilson Fortes",82,17,18
+"Waldik da Cruz, Danilson Fortes",83,20,15
+"Waldik da Cruz, Danilson Fortes",84,18,17
+"Waldik da Cruz, Danilson Fortes",85,16,19
+"Waldik da Cruz, Danilson Fortes",86,20,15
+"Waldik da Cruz, Danilson Fortes",87,16,19
+"Waldik da Cruz, Danilson Fortes",88,17,18
+"Waldik da Cruz, Danilson Fortes",89,17,18
+"Waldik da Cruz, Danilson Fortes",90,16,19
+"Waldik da Cruz, Danilson Fortes",91,17,18
+"Waldik da Cruz, Danilson Fortes",92,18,17
+"Waldik da Cruz, Danilson Fortes",93,18,17
+"Waldik da Cruz, Danilson Fortes",94,19,16
+"Waldik da Cruz, Danilson Fortes",95,16,19
+"Waldik da Cruz, Danilson Fortes",96,16,19
+"Waldik da Cruz, Danilson Fortes",97,18,17
+"Waldik da Cruz, Danilson Fortes",98,17,18
+"Waldik da Cruz, Danilson Fortes",99,18,17
+"Waldik da Cruz, Danilson Fortes",100,15,20

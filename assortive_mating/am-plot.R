@@ -1,5 +1,3 @@
-# a36919 <- "Bernardo Mamede"
-id <- "Bernardo Mamede"
 am <- read.csv("./assortive_mating.csv", sep = ",")
 
 
